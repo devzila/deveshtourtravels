@@ -271,6 +271,7 @@
                                     type: "POST",
                                     url: url,
                                     data: form.serialize(),
+                                    dataType: "json",
                                     success: function(data) {
                                           
                                         // Ajax call completed successfully
@@ -285,30 +286,30 @@
                             });
                         });
                       </script>
-                  <form class="row g-3" id='formId' action=''>
+                  <form class="row g-3" id='formId' action = "https://formspree.io/f/YOUR_FORM_ID" method = "POST">
                     <div class="col-md-6">
                       <label for="inputName" class="form-label">Name</label>
-                      <input type="text" class="form-control" id="Name" name="Name" placeholder="Full Name">
+                      <input type="text" class="form-control  text-dark" id="Name" name="Name" placeholder="Full Name">
                     </div>
                     <div class="col-md-6">
                       <label for="inputEmail4" class="form-label">Email</label>
-                      <input type="text" class="form-control" id="Email" name="Email" placeholder="email@example.com">
+                      <input type="text" class="form-control text-dark" id="Email" name="Email" placeholder="email@example.com">
                     </div>
                     <div class="col-md-6">
                       <label for="inputPhone" class="form-label">PhoneNo</label>
-                      <input type="text" class="form-control" id="Phoneno" name="Phoneno">
+                      <input type="text" class="form-control text-dark" id="Phoneno" name="Phoneno">
                     </div>
                     <div class="col-12">
                       <label for="inputAddress" class="form-label">Pickup Address</label>
-                      <input type="text" class="form-control" id="Address" name="Address" placeholder="Apartment, studio, or floor">
+                      <input type="text" class="form-control text-dark" id="Address" name="Address" placeholder="Apartment, studio, or floor">
                     </div>
                     <div class="col-md-6">
                       <label for="inputPassanger" class="form-label">No of Passanger</label>
-                      <input type="text" class="form-control" id="Passanger" name="Passanger">
+                      <input type="text" class="form-control text-dark" id="Passanger" name="Passanger">
                     </div>
                     <div class="col-md-4">
                       <label for="inputCar" class="form-label">Select Car</label>
-                      <select id="Car" name="Car" class="form-select">
+                      <select id="Car" name="Car" class="form-select text-dark">
                         <option selected>Dizer</option>
                         <option value="1">Innova</option>
                         <option value="2">Fortuner</option>
@@ -318,7 +319,7 @@
                     <div class=" col-md-7">
                       <label for="inputdate" class="form-label"> Pickup Date</label>
                       <div class="input-group">
-                        <input class="form-select" id="date" name="date" type="date" />
+                        <input class="form-select text-dark" id="date" name="date" type="date" />
                       </div>
                     </div>
                     <div class="col-md-6">
