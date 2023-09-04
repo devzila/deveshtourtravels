@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <title>Title</title>
+</head>
+<body>
+    <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+</body>
+</html>
+
+
+<!-- Modal -->
+<div class="modal fade" id="myprograming" tabindex="-1" aria-labelledby="myprograming" aria-hidden="true">
+    <div class="modal-dialog">
+    <div class="modal-content">
+    <div class="modal-header">
+    <h5 class="modal-title text-center" id="myprograming">Contact Form</h5>
+    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+    </div>
+    <div class="modal-body">
+    <div class="container">
+    <div class="row justify-content-center">
+    <div class="col-md-10 inquiry-form">
+    <form action="" method="post">
+    <!--Grid row-->
+    <div class="col-md-6">
+        <label for="inputName" class="form-label">Name</label>
+        <input type="text" class="form-control  text-dark" id="Name" name="Name" placeholder="Full Name">
+      </div>
+      <div class="col-md-6">
+        <label for="inputEmail4" class="form-label">Email</label>
+        <input type="text" class="form-control text-dark" id="Email" name="Email" placeholder="email@example.com">
+      </div>
+      <div class="col-md-6">
+        <label for="inputPhone" class="form-label">PhoneNo</label>
+        <input type="text" class="form-control text-dark" id="Phoneno" name="Phoneno">
+      </div>
+      <div class="d-flex-tripradio">
+        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+        <label class="form-check-label" for="flexRadioDefault1">
+          One way Round
+        </label>
+      </div>
+      <div class="d-flex-tripradio">
+        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+        <label class="form-check-label" for="flexRadioDefault2">
+          Two Way Round
+        </label>
+      </div>
+      <div class="col-12">
+        <label for="inputAddress" class="form-label">Pickup Address</label>
+        <input type="text" class="form-control text-dark" id="Address" name="Address" placeholder="Apartment, studio, or floor">
+      </div>
+      <div class="col-md-6">
+        <label for="inputPassanger" class="form-label">No of Passanger</label>
+        <input type="text" class="form-control text-dark" id="Passanger" name="Passanger">
+      </div>
+      <div class="col-md-6">
+        <label for="inputLocation" class="form-label" onfocus="initMap()"><span class="input-group-addon"><i class="fa fa-map-marker"> </i></span>Pickup Location</label>
+        <select id="location" name="location" class="form-select">
+          <option selected> New Delhi</option>
+          <option value="1">Gurgaon</option>
+          <option value="2">Noida</option>
+          <option value="3">Ghaziabad</option>
+        </select>
+      </div>
+      <div class="col-md-6">
+        <label for="inputDrop" class="form-label">Drop Location</label>
+        <input type="text" class="form-control text-dark" id="Address" name="Address" placeholder="Apartment, studio, or floor">
+      </div>
+      <div class="col-md-4">
+        <label for="inputCar" class="form-label">Select Car</label>
+        <select id="Car" name="Car" class="form-select text-dark">
+          <option selected>Dizer</option>
+          <option value="1">Innova</option>
+          <option value="2">Fortuner</option>
+          <option value="3">Tempo Traveller</option>
+        </select>
+      </div>
+      <div class=" col-md-7">
+        <label for="inputdate" class="form-label"> Pickup Date</label>
+        <div class="input-group">
+          <input class="form-select text-dark" id="date" name="date" type="date" />
+        </div>
+      </div>
+      <div class="col-md-6">
+        <label for="button" class="form-label"></label>
+        <button type="submit" class="btn btn-lg btn-primary" 
+          id="submitButton">
+            Submit
+        </button>
+      </div>
+    <!--Grid row-->
+    </form>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <!-- Modal end-->
+
+
+
+    <!--Modal JS Script -->
+<script type="text/javascript">
+    window.onload = () => {
+    $('#myprograming').modal('show');
+    }
+    </script>
