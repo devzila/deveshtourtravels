@@ -45,9 +45,20 @@
           <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto pt-2 pt-lg-0">
-              <li class="nav-item"><a class="nav-link text-600" href="/">Home</a></li>
-              <li class="nav-item"><a class="nav-link active" aria-current="page" href="taj_mahal.html">Taj Mahal Yatra</a></li>
+              <li class="nav-item"><a class="nav-link active"aria-current="page" href="/">24x7 Service</a></li>
+              <li class="nav-item"><a class="nav-link text-600" href="oustation_rates.html">Outstation Rates</a></li>
+              <li class="nav-item"><a class="nav-link text-600"  href="taj_mahal.html">Same Day Taj</a></li>
               <li class="nav-item"><a class="nav-link text-600" href="char_dham.html">Char Dham Yatra</a></li>
+              <li class="nav-item"><a class="nav-link text-600" href="amarnath_yatra.html">Amarnath Yatra</a></li>
+              <li class="nav-item dropdown">
+                <a class="nav-link text-600 dropdown-toggle" data-bs-toggle="dropdown" href="tour_packages.html" role="button" aria-expanded="false">Tour & packages</a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="amarnath_yatra.html">Amarnath yatra package</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="char_dham.html">Uttarakhand package</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="taj_mahal.html">Taj mahal package</a></li>
+                  <li><a class="dropdown-item" href="#">Himachal package</a></li>
+                </ul>
+              </li>
               <li class="nav-item"><a class="nav-link text-600" href="contact_us.html">Contact Us </a></li>
             </ul>
             <form class="ps-lg-5">
@@ -68,7 +79,134 @@
               <p>
                 Are you looking for Taxi/Cab service in Delhi? Don't worry, your search for cabs in Delhi ends right here. Devesh Tour & Travels provides the easiest way to book taxi service in Delhi. Now get the best deals on cab fares in Delhi, starting from Rs 13 per km 
               </p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 9711113179</a>
+
+              <div class="py-3 text-dark">
+                <ul>
+                  <li>Taxi to Outstation</li>
+                  <li>Outstation Taxi Service in Delhi</li>
+                  <li>All Day Taxi Hire Service in Delhi</li>
+                  <li>One Way/Round Trip Taxi Service in Delhi</li>
+                  <li> Local Taxi Service in Delhi</li>
+                  <li> We also provide taxi service for local NCR and outside NCR for wedding, events, film shooting.</li>
+                </ul>
+              </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+
+      <section class="py-0">
+
+        <div class="container position-relative">
+          <div class="col-md-5 col-mb">
+            <div class="hk-banner-form">
+              <div class="hk-form-title text-center">
+                <h3 class="text-center text-info py-5"> Select Your Cab Service In Delhi NCR:-</h3>
+
+              </div>
+              <script src=
+                      "https://code.jquery.com/jquery-3.5.0.js">
+                        </script>
+                        <script>
+                          
+                        // When DOM is loaded this 
+                        // function will get executed
+                        $(() => {
+                            // function will get executed 
+                            // on click of submit button
+                            $("#submitButton").click(function(ev) {
+                                var form = $("#formId");
+                                var url = form.attr('action');
+                                $.ajax({
+                                    type: "POST",
+                                    url: url,
+                                    data: form.serialize(),
+                                    dataType: "json",
+                                    success: function(data) {
+                                          
+                                        // Ajax call completed successfully
+                                        alert("Form Submited Successfully");
+                                    },
+                                    error: function(data) {
+                                          
+                                        // Some error in ajax call
+                                        alert("some Error");
+                                    }
+                                });
+                            });
+                        });
+                      </script>
+                  <form class="row g-3" id='formId' action = "https://formspree.io/f/YOUR_FORM_ID" method = "POST">
+                    <div class="col-md-6">
+                      <label for="inputName" class="form-label">Name</label>
+                      <input type="text" class="form-control  text-dark" id="Name" name="Name" placeholder="Full Name">
+                    </div>
+                    <div class="col-md-6">
+                      <label for="inputEmail4" class="form-label">Email</label>
+                      <input type="text" class="form-control text-dark" id="Email" name="Email" placeholder="email@example.com">
+                    </div>
+                    <div class="col-md-6">
+                      <label for="inputPhone" class="form-label">PhoneNo</label>
+                      <input type="text" class="form-control text-dark" id="Phoneno" name="Phoneno">
+                    </div>
+                    <div class="d-flex-tripradio">
+                      <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                      <label class="form-check-label" for="flexRadioDefault1">
+                        One way Round
+                      </label>
+                    </div>
+                    <div class="d-flex-tripradio">
+                      <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+                      <label class="form-check-label" for="flexRadioDefault2">
+                        Two Way Round
+                      </label>
+                    </div>
+                    <div class="col-12">
+                      <label for="inputAddress" class="form-label">Pickup Address</label>
+                      <input type="text" class="form-control text-dark" id="Address" name="Address" placeholder="Apartment, studio, or floor">
+                    </div>
+                    <div class="col-md-6">
+                      <label for="inputPassanger" class="form-label">No of Passanger</label>
+                      <input type="text" class="form-control text-dark" id="Passanger" name="Passanger">
+                    </div>
+                    <div class="col-md-6">
+                      <label for="inputLocation" class="form-label" onfocus="initMap()"><span class="input-group-addon"><i class="fa fa-map-marker"> </i></span>Pickup Location</label>
+                      <select id="location" name="location" class="form-select">
+                        <option selected> New Delhi</option>
+                        <option value="1">Gurgaon</option>
+                        <option value="2">Noida</option>
+                        <option value="3">Ghaziabad</option>
+                      </select>
+                    </div>
+                    <div class="col-md-6">
+                      <label for="inputDrop" class="form-label">Drop Location</label>
+                      <input type="text" class="form-control text-dark" id="Address" name="Address" placeholder="Apartment, studio, or floor">
+                    </div>
+                    <div class="col-md-4">
+                      <label for="inputCar" class="form-label">Select Car</label>
+                      <select id="Car" name="Car" class="form-select text-dark">
+                        <option selected>Dizer</option>
+                        <option value="1">Innova</option>
+                        <option value="2">Fortuner</option>
+                        <option value="3">Tempo Traveller</option>
+                      </select>
+                    </div>
+                    <div class=" col-md-7">
+                      <label for="inputdate" class="form-label"> Pickup Date</label>
+                      <div class="input-group">
+                        <input class="form-select text-dark" id="date" name="date" type="date" />
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <label for="button" class="form-label"></label>
+                      <button type="submit" class="btn btn-lg btn-primary" 
+                        id="submitButton">
+                          Search
+                      </button>
+                    </div>
+                  </form>
+                </div>
           </div>
         </div>
       </section>
@@ -76,138 +214,7 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section id="places">
-
-        <div class="container">
-          <div class="row flex-md-center">
-            <div class="col-md-11 col-lg-4 py-md-3 px-4 px-md-3 px-lg-0 px-xl-2 order-lg-1">
-              <h1 class="fw-bold fs-md-3 fs-xl-5">Amazing places to enjoy your travel</h1>
-              <hr class="text-primary my-4 my-lg-3 my-xl-4" style="height:3px; width:70px;" />
-              <p class="lh-lg">Etiam facilisis, sapien quis porta dignissim, orci nisi pharetra dui, varius vehicula ligula nulla sit amet lorem. Aenean in vestibulum quam. Cras commodo varius neque, non gravida diam ultrices nec. Cras nulla mauris, fermentum nec libero in.</p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">Explore</a>
-            </div>
-            <div class="col-lg-8 order-lg-0 order-1 px-4 px-md-3 py-8 py-md-3">
-              <div class="carousel slide" id="carouselExampleControlsNoTouching" data-bs-touch="false" data-bs-interval="false">
-                <div class="carousel-inner">
-                  <div class="carousel-item active">
-                    <div class="row h-100">
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/maldives.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$860</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Maldives</h5>
-                              <h6 class="text-600">3 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$860</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Indonesia</h5>
-                              <h6 class="text-600">7 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$340</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Kathmandu</h5>
-                              <h6 class="text-600">5 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <div class="row h-100">
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/maldives.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$340</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Maldives</h5>
-                              <h6 class="text-600">5 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$540</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Indonesia</h5>
-                              <h6 class="text-600">5 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$640</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Kathmandu</h5>
-                              <h6 class="text-600">6 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <div class="row h-100">
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$540</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Kathmandu</h5>
-                              <h6 class="text-600">5 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/maldives.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$860</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Maldives</h5>
-                              <h6 class="text-600">3 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$860</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Indonesia</h5>
-                              <h6 class="text-600">7 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="position-relative mt-5"><a class="carousel-control-prev carousel-icon z-index-2" href="#carouselExampleControlsNoTouching" role="button" data-bs-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="visually-hidden">Previous</span></a><a class="carousel-control-next carousel-icon z-index-2" href="#carouselExampleControlsNoTouching" role="button" data-bs-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="visually-hidden">Next</span></a></div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end of .container-->
-
-      </section>
+      
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -215,192 +222,8 @@
 
 
       <!-- ============================================-->
-      <!-- <section> begin ============================-->
-      <section class="pt-5" id="featuresVideos">
-
-        <div class="container">
-          <div class="row flex-center mb-5">
-            <div class="col-lg-8 text-center">
-              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5">Taxi rates in Delhi to Outstation Travel</h1>
-              <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-              <p class="mx-auto">Outstation Cab Fare in Delhi (as on July 2023)</p>
-            </div>
-          </div>
-          <div class="row flex-center">
-            <div class="col-12">
-              <div class="carousel slide" id="carouselExampleIndicators" data-bs-touch="false" data-bs-interval="false">
-                <div class="row align-items-center">
-                  <div class="col-12 col-xxl-7 px-2">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active h-100">
-                        <table class="table">
-                          <thead>
-                            <tr>
-                              <th scope="col">Cab Type </th>
-                              <th scope="col">Capacity</th>
-                              <th scope="col"> Fare </th>
-                              <th scope="col">Per Day Limit</th>
-                              <th scope="col">Driver Allowance Per Day</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            <tr>
-                              <td>Dizer or Equivalent</td>
-                              <td class="px-4">4 + 1 </td>
-                              <td>Rs. 15 per km </td>
-                              <td class="px-5">250km </td>
-                              <td class="px-7">500</td>
-                            </tr>
-                            <tr>
-                              <td>Ertiga</td>
-                              <td class="px-4"> 6 + 1 </td>
-                              <td>Rs. 18 per km</td>
-                              <td class="px-5">250km</td>
-                              <td class="px-7">500</td>
-                            </tr>
-                            <tr>
-                              <td>Innova </td>
-                              <td class="px-4">6 + 1</td>
-                              <td>Rs. 20 per km</td>
-                              <td class="px-5"> 250km </td>
-                              <td class="px-7"> 500</td>
-                            </tr>
-                            <tr>
-                              <td>Innova Crysta</td>
-                              <td class="px-4">6 + 1</td>
-                              <td>Rs. 23 per km</td>
-                              <td class="px-5">250km</td>
-                              <td class="px-7">500</td>
-                            </tr>
-                            <tr>
-                              <td>Fortuner</td>
-                              <td class="px-4">6 + 1</td>
-                              <td>Rs. 35 per km</td>
-                              <td class="px-5"> 250km</td>
-                              <td class="px-7">800</td>
-                            </tr>
-                            <tr>
-                              <td>Tempo Traveller 12-Seater  </td>
-                              <td class="px-4">11 + 1</td>
-                              <td>Rs. 30 per km</td>
-                              <td class="px-5">250km</td>
-                              <td class="px-7">700</td>
-                            </tr>
-                            <tr>
-                              <td>Tempo Traveller 16-Seater  </td>
-                              <td class="px-4">16 + 1</td>
-                              <td>Rs. 32 per km</td>
-                              <td class="px-5">250km</td>
-                              <td class="px-7">700</td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </div>
-                      <div class="carousel-item">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-6 col-md-3 col-xxl-2 pt-3 pt-md-0">
-                    <div class="carousel-indicators">
-                      <div class="row h-100 w-100">
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end of .container-->
-
-      </section>
-      <!-- <section> close ============================-->
-      <!-- ============================================-->
-
-
-
-
-
-       <!-- ============================================-->
-      <!-- <section> begin ============================-->
-      <section class="pt-5" id="featuresVideos">
-
-        <div class="container">
-          <div class="row flex-center mb-5">
-            <div class="col-lg-8 text-center">
-              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5">Our Delhi/NCR Local Charges</h1>
-              <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-            </div>
-          </div>
-          <div class="row flex-center">
-            <div class="col-12">
-              <div class="carousel slide" id="carouselExampleIndicators" data-bs-touch="false" data-bs-interval="false">
-                <div class="row align-items-center">
-                  <div class="col-12 col-xxl-7 px-2">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active h-100">
-                        <table class="table">
-                          <thead>
-                            <tr>
-                              <th scope="col">Cab Type </th>
-                              <th scope="col">8hrs/ 80km Local Charges </th>
-                              <th scope="col">Driver Allowance Per Day</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            <tr>
-                              <td>Dizer or Equivalent</td>
-                              <td class="px-5">Rs.1800  extra km 18 extra hrs 200</td>
-                              <td class="px-7" >200</td>
-                            </tr>
-                            <tr>
-                              <td>Ertiga</td>
-                              <td class="px-5">Rs.2400 extra km 22 extra hrs 200</td>
-                              <td class="px-7">200</td>
-                            </tr>
-                            <tr>
-                              <td>Innova </td>
-                              <td class="px-5">Rs.2600 extra km 26 extra hrs 200 </td>                              
-                              <td class="px-7"> 300</td>
-                            </tr>
-                            <tr>
-                              <td>Innova Crysta</td>
-                              <td class="px-5">Rs.3000  extra km 30 extra hrs 200  </td>
-                              <td class="px-7">300</td>
-                            </tr>
-                            <tr>
-                              <td>Fortuner</td>
-                              <td class="px-5">   Rs.5000 extra km 45 extra hrs 600 </td>
-                              <td class="px-7">500</td>
-                            </tr>
-                            <tr>
-                              <td>Tempo Traveller 12-Seater 11 + 1   </td>
-                              <td class="px-5">Rs.6000  extra km 30 extra hrs 600  </td>
-                              <td class="px-7">500</td>
-                            </tr>
-                            <tr>
-                              <td>Tempo Traveller 16-Seater 16 + 1   </td>
-                              <td class="px-5">Rs.6000  extra km 32 extra hrs 600  </td>
-                              <td class="px-7">500</td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </div>
-                      <div class="carousel-item">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-6 col-md-3 col-xxl-2 pt-3 pt-md-0">
-                    <div class="carousel-indicators">
-                      <div class="row h-100 w-100">
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+      
+                             
         <!-- end of .container-->
 
       </section>
