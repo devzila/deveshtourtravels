@@ -1,0 +1,4 @@
+[Tue Sep 05 12:17:20.530498 2023] [php:error] [pid 24929] [client ::1:60290] script '/Users/nilay/workspace/Devzila/devzila-web-v3/public/tour-package.php' not found or unable to stat
+[Tue Sep 05 12:17:27.667629 2023] [php:error] [pid 24670] [client ::1:60319] script '/Users/nilay/workspace/Devzila/devzila-web-v3/public/tour_package.php' not found or unable to stat
+[Tue Sep 05 12:20:16.965935 2023] [php:error] [pid 24663] [client ::1:60997] script '/Users/nilay/workspace/Devzila/devzila-web-v3/public/24x7.php' not found or unable to stat, referer: http://localhost/contact_us.php
+[Tue Sep 05 12:21:36.385346 2023] [php:error] [pid 24662] [client ::1:61294] script '/Users/nilay/workspace/Devzila/devzila-web-v3/public/24x7.php' not found or unable to stat, referer: http://localhost/amarnath_yatra.php
