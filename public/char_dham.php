@@ -56,7 +56,7 @@
                 state of North India. This yatra is opened only for 6 months. (Yamunotri, Gangotri, Kedarnath and Badrinath) 
                 These are the 4 main pilgrimage sites, collectively known as the Chota Char Dham, which attract millions of pilgrims and spiritual
                 devotees seeking enlightenment.
-              </p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 9711113179</a>
+              </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
             </div>
           </div>
         </div>
@@ -207,6 +207,7 @@
           <div class="col-12 col-xxl-7 text-center text-info">
             <p> Including Yamunotri, Gangotri, Kedarnath and Badrinath Darshan</p>
             <p>This package includes all toll taxes, state taxes, parking and driver allowance.</p>
+            <a  href="char_dham_packages.html" class="stretched-link"> Tap the link for<h3 class="text-primary">Char Dham Packages:-</h3></a>
 
           </div>
         </div>
@@ -292,45 +293,10 @@
       <!-- <section> begin ============================-->
 
 
-        <section class="pt-5" id="featuresVideos">
-
-          <div class="container">
-            <div class="row flex-center mb-5">
-              <div class="col-lg-8 text-center">
-                <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Char Dham Tour Packages:</h1>
-                <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-                <p class="mx-auto ">We at Devesh Tour & Travels provide customized tour packages for Char Dham Yatra, 
-                  Amarnath Yatra bus and taxi services as well as other pilgrimage packages, corporate tour packages etc.
-                   These tour packages are created by our team of expert tour organisers.
-                   For more details please refer to our Char Dham Tour Packages.
-                </p>
-                <div class="col-12 col-xxl-7 text-center py-5">
-                  <h4>Delhi to Char Dham Taxi Fare</h4>
-                  <p>Char Dham taxi fare structure is slightly different from other routes.
-                     Taxi to Char Dham is not available on per km basis but on per day basis which includes all other hidden charges
-                      like driver allowance, state tax etc.
-                    </p>
-                </div>
-                <div class="col-12 col-xxl-7 text-center py-5">
-                  <h4>Delhi to Char Dham Taxi Fare ( 2023 )</h4>
-                  <p class="mx-auto text-dark py-3">The fare of different types of taxis per day is as follows:-</p>
-                  <p class="mx-auto text-info ">Desire or equivalent Rs. 4800/day.</p>
-                  <p class="mx-auto text-info ">Kia Carens Rs. 6500/day.</p>
-                  <p class="mx-auto text-info ">Innova Crysta Rs. 7250/day.</p>
-                  <p class="mx-auto text-info ">Tempo Traveller 12-Seater Rs 10 00 per day.</p>
-                  <p class="mx-auto text-info ">Tempo Traveller 17-Seater Rs 12 000 per day.</p>
-                  <p class="mx-auto text-dark py-3">Minimum charges will be applicable as under: -</p>
-                  <p class="mx-auto text-info">For 1 Dham: Minimum 6 days payment.</p>
-                  <p class="mx-auto text-info">For 2 Dham: Minimum 8 days payment.</p>
-                  <p class="mx-auto text-info">For 4 Dham: Minimum 12 days payment. </p>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
+       
           <!-- end of .container-->
   
-        </section>
+        
 
         <!-- <section> close ============================-->
       <!-- ============================================-->
