@@ -42,26 +42,31 @@
     <main class="main" id="top">
       <?php include('inc/nav.php')?>
        <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/illustrations/hero.png);background-position:right bottom;background-size:contain;">
+        <div class="col-md-6 float-end">
+          <img src="assets/img/gallery/ind.jpeg" class="img-thumbnail col-mb ">
         </div>
         <!--/.bg-holder-->
 
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
-            <div class="col-md-7 col-lg-6 text-center text-md-start py-8">
-              <h2 class="mb-4 display-1 lh-sm">Taxi Service in Delhi for local and outstation</h2>
+            <div class="col-md-8 text-center text-md-start py-3">
+              <h2 class="mb-4 display">Taxi Service in Delhi for Local and Outstation</h2>
               <p>
                 Are you looking for Taxi/Cab service in Delhi? Don't worry, your search for cabs in Delhi ends right here. Devesh Tour & Travels provides the easiest way to book taxi service in Delhi. Now get the best deals on cab fares in Delhi, starting from Rs 13 per km 
-              </p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 9711113179</a>
+              </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
 
               <div class="py-3 text-dark">
                 <ul>
-                  <li>Taxi to Outstation</li>
-                  <li>Outstation Taxi Service in Delhi</li>
-                  <li>All Day Taxi Hire Service in Delhi</li>
-                  <li>One Way/Round Trip Taxi Service in Delhi</li>
+                  <li>Outstation Taxi Service.</li>
+                  <li>Full Day Taxi Hire Service in Delhi.</li>
+                  <li>One Way/Round Trip Taxi Service from anywhere.</li>
                   <li> Local Taxi Service in Delhi</li>
-                  <li> We also provide taxi service for local NCR and outside NCR for wedding, events, film shooting.</li>
+                  <li> We also provide taxi service for local NCR and Outside NCR for:- </li>
+                    <li class="text-info"> Wedding</li>
+                    <li class="text-info">Events</li>
+                    <li class="text-info">Conference</li>
+                    <li class="text-info">Ad Shooting</li>
+                    <li class="text-info"> Film Shooting</li>
                 </ul>
               </div>
             </div>
@@ -70,125 +75,7 @@
       </section>
 
 
-      <section class="py-0">
-
-        <div class="container position-relative">
-          <div class="col-md-5 col-mb">
-            <div class="hk-banner-form">
-              <div class="hk-form-title text-center">
-                <h3 class="text-center text-info py-5"> Select Your Cab Service In Delhi NCR:-</h3>
-
-              </div>
-              <script src=
-                      "https://code.jquery.com/jquery-3.5.0.js">
-                        </script>
-                        <script>
-                          
-                        // When DOM is loaded this 
-                        // function will get executed
-                        $(() => {
-                            // function will get executed 
-                            // on click of submit button
-                            $("#submitButton").click(function(ev) {
-                                var form = $("#formId");
-                                var url = form.attr('action');
-                                $.ajax({
-                                    type: "POST",
-                                    url: url,
-                                    data: form.serialize(),
-                                    dataType: "json",
-                                    success: function(data) {
-                                          
-                                        // Ajax call completed successfully
-                                        alert("Form Submited Successfully");
-                                    },
-                                    error: function(data) {
-                                          
-                                        // Some error in ajax call
-                                        alert("some Error");
-                                    }
-                                });
-                            });
-                        });
-                      </script>
-                  <form class="row g-3" id='formId' action = "https://formspree.io/f/YOUR_FORM_ID" method = "POST">
-                    <div class="col-md-6">
-                      <label for="inputName" class="form-label">Name</label>
-                      <input type="text" class="form-control  text-dark" id="Name" name="Name" placeholder="Full Name">
-                    </div>
-                    <div class="col-md-6">
-                      <label for="inputEmail4" class="form-label">Email</label>
-                      <input type="text" class="form-control text-dark" id="Email" name="Email" placeholder="email@example.com">
-                    </div>
-                    <div class="col-md-6">
-                      <label for="inputPhone" class="form-label">PhoneNo</label>
-                      <input type="text" class="form-control text-dark" id="Phoneno" name="Phoneno">
-                    </div>
-                    <div class="d-flex-tripradio">
-                      <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                      <label class="form-check-label" for="flexRadioDefault1">
-                        One way Round
-                      </label>
-                    </div>
-                    <div class="d-flex-tripradio">
-                      <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
-                      <label class="form-check-label" for="flexRadioDefault2">
-                        Two Way Round
-                      </label>
-                    </div>
-                    <div class="col-12">
-                      <label for="inputAddress" class="form-label">Pickup Address</label>
-                      <input type="text" class="form-control text-dark" id="Address" name="Address" placeholder="Apartment, studio, or floor">
-                    </div>
-                    <div class="col-md-6">
-                      <label for="inputPassanger" class="form-label">No of Passanger</label>
-                      <input type="text" class="form-control text-dark" id="Passanger" name="Passanger">
-                    </div>
-                    <div class="col-md-6">
-                      <label for="inputLocation" class="form-label" onfocus="initMap()"><span class="input-group-addon"><i class="fa fa-map-marker"> </i></span>Pickup Location</label>
-                      <select id="location" name="location" class="form-select">
-                        <option selected> New Delhi</option>
-                        <option value="1">Gurgaon</option>
-                        <option value="2">Noida</option>
-                        <option value="3">Ghaziabad</option>
-                      </select>
-                    </div>
-                    <div class="col-md-6">
-                      <label for="inputDrop" class="form-label">Drop Location</label>
-                      <input type="text" class="form-control text-dark" id="Address" name="Address" placeholder="Apartment, studio, or floor">
-                    </div>
-                    <div class="col-md-4">
-                      <label for="inputCar" class="form-label">Select Car</label>
-                      <select id="Car" name="Car" class="form-select text-dark">
-                        <option selected>Dizer</option>
-                        <option value="1">Innova</option>
-                        <option value="2">Fortuner</option>
-                        <option value="3">Tempo Traveller</option>
-                      </select>
-                    </div>
-                    <div class=" col-md-7">
-                      <label for="inputdate" class="form-label"> Pickup Date</label>
-                      <div class="input-group">
-                        <input class="form-select text-dark" id="date" name="date" type="date" />
-                      </div>
-                    </div>
-                    <div class="col-md-6">
-                      <label for="button" class="form-label"></label>
-                      <button type="submit" class="btn btn-lg btn-primary" 
-                        id="submitButton">
-                          Search
-                      </button>
-                    </div>
-                  </form>
-                </div>
-          </div>
-        </div>
-      </section>
-
-
-      <!-- ============================================-->
-      <!-- <section> begin ============================-->
-      
+     
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -200,7 +87,7 @@
                              
         <!-- end of .container-->
 
-      </section>
+  
 
 
       <!-- ============================================-->

@@ -42,38 +42,12 @@
     <main class="main" id="top">
       <?php include 'inc/nav.php' ;?>
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/illustrations/hero.png);background-position:right bottom;background-size:contain;">
-        </div>
-        <!--/.bg-holder-->
-
-        <div class="container position-relative">
-          <div class="row align-items-center min-vh-75 my-lg-8">
-            <div class="col-md-7 col-lg-6 text-center text-md-start py-8">
-              <h4 class="text-info">CONTACT US </h4><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 9711113179</a>
-              <p class="mx-auto py-2 text-dark">
-                Get In Touch                
-              </p>
-              <div class="col-md-7 col-lg-6 text-center text-md-start text-dark">
-                <p class="text-info">DEVESH TOUR & TRAVELS</p>
-                <p>(PAN INDIA SERVICE PROVIDER)</p>
-              </div>
-              <div class="col-md-7 col-lg-6 text-center text-md-start text-dark py-4">
-                <p>Address: DTT, East Kidwai Nagar New Delhi 110023 (INDIA)</p>
-              </div>
-              <div class="col-md-7 col-lg-6 text-center text-md-start text-dark">
-                <p>Email Id:</p><a href="#" class="link-primary">deveshtourtravels@gmail.com</a>
-                <p class="mx-auto text-info px-7">24x7</p> <a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-top" href="#" role="button">+91 9711113179</a><br><br>
-                <a class="btn  btn-primary hover-top marigin-top" href="form.html" role="button">Book now</a>
-              </div>
-            </div>
-          </div>
-        </div>
       </section>
 
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-    
+       
         <!-- end of .container-->
 
       </section>
@@ -85,42 +59,216 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
+      
+      <!-- <section> close ============================-->
+      <!-- ============================================-->
+
+
+
+
+      <!-- ============================================-->
+      <!-- <section> begin ============================-->
+      
+      <!-- <section> close ============================-->
+      <!-- ============================================-->
+
+
+
+
+      <!-- ============================================-->
+      <!-- <section> begin ============================-->
+        
+  
+      
+
+        <!-- <section> close ============================-->
+      <!-- ============================================-->
+
+
+
+      <!-- ============================================-->
+      <!-- <section> begin ============================-->
+
+
         <section class="pt-5" id="featuresVideos">
 
           <div class="container">
             <div class="row flex-center mb-5">
               <div class="col-lg-8 text-center">
-                <h2 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5 py-0"> (DEVESH TOUR & TRAVELS, PAN INDIA SERVICE PROVIDER)
-                  </h2>
+                <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Char Dham Tour Packages:</h1>
                 <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-                <p class="mx-auto text-info">Kindly leave your message by filling the below form and we will get back to you very soon.</p>
-                <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
-  
+                <p class="mx-auto ">We at Devesh Tour & Travels provide customized tour packages for Char Dham Yatra, 
+                  Amarnath Yatra bus and taxi services as well as other pilgrimage packages, corporate tour packages etc.
+                   These tour packages are created by our team of expert tour organisers.
+                   For more details please refer to our Char Dham Tour Packages.
+                </p>
+                <div class="col-12 col-xxl-7 text-center py-5">
+                  <h4>Delhi to Char Dham Taxi Fare</h4>
+                  <p>Char Dham taxi fare structure is slightly different from other routes.
+                     Taxi to Char Dham is not available on per km basis but on per day basis which includes all other hidden charges
+                      like driver allowance, state tax etc.
+                    </p>
+                </div>
+                <div class="col-12 col-xxl-7 text-center py-5">
+                  <h4>Delhi to Char Dham Taxi Fare ( 2023 )</h4>
+                  <p class="mx-auto text-dark py-3">The fare of different types of taxis per day is as follows:-</p>
+                  <p class="mx-auto text-info ">Desire or equivalent Rs. 4800/day.</p>
+                  <p class="mx-auto text-info ">Kia Carens Rs. 6500/day.</p>
+                  <p class="mx-auto text-info ">Innova Crysta Rs. 7250/day.</p>
+                  <p class="mx-auto text-info ">Tempo Traveller 12-Seater Rs 10 00 per day.</p>
+                  <p class="mx-auto text-info ">Tempo Traveller 17-Seater Rs 12 000 per day.</p>
+                  <p class="mx-auto text-dark py-3">Minimum charges will be applicable as under: -</p>
+                  <p class="mx-auto text-info">For 1 Dham: Minimum 6 days payment.</p>
+                  <p class="mx-auto text-info">For 2 Dham: Minimum 8 days payment.</p>
+                  <p class="mx-auto text-info">For 4 Dham: Minimum 12 days payment. </p>
+                  
+                </div>
               </div>
             </div>
           </div>
           <!-- end of .container-->
   
         </section>
-      <!-- <section> close ============================-->
-      <!-- ============================================-->
-
-       <!-- ============================================-->
-      <!-- <section> begin ============================-->
-      
 
         <!-- <section> close ============================-->
       <!-- ============================================-->
 
-      <!-- ============================================-->
+
+
+
+
+
+       <!-- ============================================-->
       <!-- <section> begin ============================-->
       
-                       
-                                   
-      
+                              
         <!-- end of .container-->
 
-      
+  
+
+
+      <!-- ============================================-->
+      <!-- <section> begin ============================-->
+      <section class="pt-5">
+
+        <div class="container">
+          <div class="row flex-center mb-5">
+            <div class="col-lg-8 text-center">
+              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5">Travel categories</h1>
+              <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
+              <p class="mx-auto">Maecenas et eros non quam ultricies interdum. Proin ac dolor vel neque ullamcorper blandit vitae et felis. Morbi ante urna, imperdiet vel neque vitae, porta ullamcorper metus. Quisque bibendum venenatis eros sed commodo. Nullam ultrices tortor non diam ullamcorper auctor. In urna tellus, auctor sit amet est ut, scelerisque volutpat diam.</p>
+            </div>
+          </div>
+          <div class="row h-100 flex-center">
+            <div class="row flex-lg-center">
+              <div class="col-md-12">
+                <div class="carousel slide" id="carouselCategory" data-bs-touch="false" data-bs-interval="false">
+                  <div class="carousel-inner">
+                    <div class="carousel-item active" data-bs-interval="10000">
+                      <div class="row h-100">
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/image1.jpeg" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">Taxi to Outstation</h5>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images2.jpeg" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">Outstation Taxi Service in Delhi</h5>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images3.jpeg" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">All Day Taxi Hire Service in Delhi</h5>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images4.png" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">One Way/Round Trip Taxi Service in Delhi</h5>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images6.png" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">Local Taxi Service in Delhi</h5>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/hill.jpg" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">Hill and nature</h5>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="carousel-item" data-bs-interval="2000">
+                      <div class="row h-100">
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/food.png" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">Food</h5>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/backpacking.png" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">Backpacking</h5>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/beaches.png" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">Beaches,coast and island</h5>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/art-culture.png" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">Art and culture</h5>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/wild.png" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">Wildlife and nature</h5>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/hill.jpg" alt="" /></a>
+                            <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
+                              <h5 class="text-white fs--1">Hill and nature</h5>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    
+                  </div>
+                  <div class="row mt-4">
+                    <div class="col-12 position-relative"><a class="carousel-control-prev carousel-icon z-index-2" href="#carouselCategory" role="button" data-bs-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="visually-hidden">Previous</span></a><a class="carousel-control-next carousel-icon z-index-2" href="#carouselCategory" role="button" data-bs-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="visually-hidden">Next</span></a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- end of .container-->
+
+      </section>
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -129,7 +277,7 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      
+  
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
