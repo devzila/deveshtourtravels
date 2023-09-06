@@ -48,15 +48,15 @@
 
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
-            <div class="col-md-7 col-lg-6 text-center text-md-start py-8">
-              <h4 class="mb-4 display-1 lh-sm">LOCAL AND OUTSTATION CHARGES</h4>
+            <div class="col-md-4 text-center text-md-start py-3">
+              <h2 class="mb-4 display">LOCAL AND OUTSTATION CHARGES</h2>
               <p class="text-info">Cheap Taxi Rates in Delhi with Devesh Tour and Travels</p>
               <p class="text-info">
                 Updated list of Taxi Fares in Delhi NCR (23 - 24)
               </p>
             </div>
             
-            <div>
+            <div class="col-md-9">
               <p>Devesh Tour & Travels is a Delhi based reliable and efficient cab service for outstation and local use, that offers a range of vehicles to suit the requirements of its clients. Here, you can find the current taxi fare in Delhi NCR from Devesh Tour & Travels, we will also try to compare with the fares of other taxi companies in the city</p>
             </div>
             

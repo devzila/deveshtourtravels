@@ -16,7 +16,7 @@
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="amarnath_yatra.php">Amarnath yatra package</a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand_tour.php">Uttarakhand Tour package</a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="outstation_rates.php">Outstation rate Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="outsation_rates.php">Delhi Local Tour</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="outstation_rates.php">Delhi Local Tour</a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="conference_tour.php">Conference Tour package</a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="wedding_tour.php">Wedding Tour Package</a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="ad_film_shooting.php">Ad Film and Shooting package</a></li>
