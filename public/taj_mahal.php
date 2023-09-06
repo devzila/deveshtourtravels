@@ -42,14 +42,13 @@
     <main class="main" id="top">
       <?php include 'inc/nav.php' ;?>
       <section class="py-0">
-        <div class="col-md-6 float-end">
-          <img src="assets/img/gallery/taj3.png" class="img-thumbnail col-mb ">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/taj3.png);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
-            <div class="col-md-8 text-center text-md-start py-3">
+            <div class="col-md-4 text-center text-md-start py-3">
               <h2 class="mb-4 display">Travel Delhi to Taj Mahal Agra</h2>
               <p>
                 Taj Mahal is one of the most amazing tourist places in India and is famous for its beauty. Taj Mahal is one of the seven wonders of the world and is situated on the banks of river Yamuna. Taj Mahal is made of pure white marble. The Taj Mahal is located in the city of Agra in the state of Uttar Pradesh. It was built by Shah Jahan in the year 1652 in memory of his wife Mumtaz Begum. Taj Mahal was listed in the UNESCO World Heritage Sites in the year 1983.

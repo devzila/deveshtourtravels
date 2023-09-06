@@ -42,20 +42,20 @@
     <main class="main" id="top">
       <?php include 'inc/nav.php' ;?>
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/illustrations/dham2.jpeg);background-position:right bottom;background-size:contain;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/ked.jpeg);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
-            <div class="col-md-7 col-lg-6 text-center text-md-start py-8">
-              <h2 class="mb-4 display-1 lh-sm">CHAR DHAM YATRA Bus & Taxi PACKAGES</h2>
+            <div  class="col-md-3 text-md-start py-3">
+              <h2 class="mb-3 display">CHAR DHAM YATRA Bus & Taxi PACKAGES</h2>
               <p>
                 Chardham Yatra: It takes place every year between April and October in Uttarakhand 
                 state of North India. This yatra is opened only for 6 months. (Yamunotri, Gangotri, Kedarnath and Badrinath) 
                 These are the 4 main pilgrimage sites, collectively known as the Chota Char Dham, which attract millions of pilgrims and spiritual
                 devotees seeking enlightenment.
-              </p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 9711113179</a>
+              </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
             </div>
           </div>
         </div>
