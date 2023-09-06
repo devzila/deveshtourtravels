@@ -88,10 +88,8 @@
                       <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card h-100 text-white hover-top"><img class="img-fluid h-200" src="assets/img/gallery/kedar.jpg" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs1340</span></div>
+                            <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Dham</h5>
-                              <h6 class="text-600">5 days</h6>
                             </div>
                           </div>
                         </div>
@@ -99,10 +97,8 @@
                       <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/dham6.jpeg" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs1340</span></div>
+                            <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Dham</h5>
-                              <h6 class="text-600">5 days</h6>
                             </div>
                           </div>
                         </div>
@@ -110,10 +106,8 @@
                       <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/dham7.jpeg" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs1340</span></div>
+                            <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Dham</h5>
-                              <h6 class="text-600">5 days</h6>
                             </div>
                           </div>
                         </div>
@@ -125,10 +119,8 @@
                       <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/maldives.png" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs340</span></div>
+                            <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Maldives</h5>
-                              <h6 class="text-600">5 days</h6>
                             </div>
                           </div>
                         </div>
@@ -136,10 +128,8 @@
                       <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.png" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs540</span></div>
+                            <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Indonesia</h5>
-                              <h6 class="text-600">5 days</h6>
                             </div>
                           </div>
                         </div>
@@ -147,10 +137,8 @@
                       <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.png" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs640</span></div>
+                            <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Kathmandu</h5>
-                              <h6 class="text-600">6 days</h6>
                             </div>
                           </div>
                         </div>
@@ -162,10 +150,8 @@
                       <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.png" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$540</span></div>
+                            <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Kathmandu</h5>
-                              <h6 class="text-600">5 days</h6>
                             </div>
                           </div>
                         </div>
@@ -173,10 +159,8 @@
                       <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/maldives.png" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$860</span></div>
+                            <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Maldives</h5>
-                              <h6 class="text-600">3 days</h6>
                             </div>
                           </div>
                         </div>
@@ -184,10 +168,8 @@
                       <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.png" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$860</span></div>
+                            <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Indonesia</h5>
-                              <h6 class="text-600">7 days</h6>
                             </div>
                           </div>
                         </div>
