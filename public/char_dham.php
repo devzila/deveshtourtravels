@@ -206,7 +206,7 @@
           <div class="col-12 col-xxl-7 text-center text-info">
             <p> Including Yamunotri, Gangotri, Kedarnath and Badrinath Darshan</p>
             <p>This package includes all toll taxes, state taxes, parking and driver allowance.</p>
-            <a  href="char_dham_packages.html" class="stretched-link"> Tap the link for<h3 class="text-primary">Char Dham Packages:-</h3></a>
+            <a  href="char_dham_packages.php" class="stretched-link"> Tap the link for<h3 class="text-primary">Char Dham Packages:-</h3></a>
 
           </div>
         </div>
