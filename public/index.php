@@ -51,13 +51,11 @@
             <div class="col-md-4 text-center text-md-start py-3">
               <h2 class="mb-3 display">Taxi Service in Delhi for Local and Outstation</h2>
               <p>
-                Are you looking for Taxi/Cab service in
-                <br> Delhi? 
-                Don't worry, your search for cabs <br>in Delhi ends right here.
-                 Devesh Tour & <br>Travels provides the easiest way to book 
-                 <br>taxi 
-                 service in Delhi. Now get the best deals on cab
-                  fares in Delhi, starting from Rs 13/km.
+                Are you looking for Taxi/Cab service in Delhi? 
+                Don't worry, your search for cabs in Delhi ends right here.
+                 Devesh Tour & Travels provides the easiest way to book taxi 
+                 service in Delhi. Now get the best deals on 
+                 cab fares in Delhi, starting from Rs 13/km.
               </p>
               <p class="text-info">We also provide taxi service for local NCR and Outside NCR for
                 :- Wedding, Events, Conference, Ad shooting, Film shooting</p>
