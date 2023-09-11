@@ -23,7 +23,6 @@
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="ad_film_shooting.php"> Film & Ad Shooting</a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="outstation_rates.php">Local and Outstation charges</a></li>
                   </ul>
-                  <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">
                     North India Tourist Place  &raquo;
                   </a>
@@ -37,7 +36,6 @@
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="uttarpradesh_tour.php"> Uttar Pradesh</a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="madhaya_pradesh.php">  Madhya Pradesh</a></li>
                  </ul>
-                  <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">
                     Noth India Pilgrimage Place  &raquo;
                   </a>
@@ -53,14 +51,12 @@
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="allahabad.php">   Allahabad </a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="varanasi.php">  Varanasi/Ayodhya</a></li>
                   </ul>
-                  <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">
                     North East Hill station  &raquo;
                   </a>
                   <ul class="dropdown-menu dropdown-submenu" >
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="varanasi.php"> goa</a></li>
                  </ul>
-                 <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">
                     Tour packages &raquo;
                   </a>
