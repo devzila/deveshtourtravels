@@ -76,11 +76,12 @@
               </p>
               <p class="text-info">We also provide taxi service for local NCR and Outside NCR for
                 :- Wedding, Events, Conference, Ad shooting, Film shooting</p>
-              <a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
-               <li>Outstation Taxi Service.</li>
+                <li>Outstation Taxi Service.</li>
                 <li>Full Day Taxi Hire Service in Delhi.</li>
                 <li>One Way/Round Trip Taxi Service from anywhere.</li>
                 <li> Local Taxi Service in Delhi</li>
+              <a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
+               
             </div>
           </div>
         </div>

@@ -67,22 +67,16 @@
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
             <div class="col-md-7 col-lg-6 text-center text-md-start py-8">
-              <h4 class="text-info">CONTACT US </h4><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 9711113179</a>
+              <h4 class="text-info">CONTACT US </h4><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 7021159617</a>
               <p class="mx-auto py-2 text-dark">
                 Get In Touch                
               </p>
               <div class="col-md-7 col-lg-6 text-center text-md-start text-dark">
                 <p class="text-info">DEVESH TOUR & TRAVELS</p>
                 <p>(PAN INDIA SERVICE PROVIDER)</p>
-              </div>
-              <div class="col-md-7 col-lg-6 text-center text-md-start text-dark py-4">
                 <p>Address: DTT, East Kidwai Nagar New Delhi 110023 (INDIA)</p>
-              </div>
-              <div class="col-md-7 col-lg-6 text-center text-md-start text-dark">
-                <p>Email Id:</p><a href="#" class="link-primary">deveshtourtravels@gmail.com</a>
-                <p class="mx-auto text-info px-7">24x7</p> <a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-top" href="#" role="button">+91 9711113179</a><br><br>
+                <p class="text-info">Email Id: <a  href="#" class="link-primary">deveshtourtravels@gmail.com</a><br>24x7</p>
                 <a class="btn  btn-primary hover-top marigin-top" href="form.html" role="button">Book now</a>
-              </div>
             </div>
           </div>
         </div>
