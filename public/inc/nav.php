@@ -15,10 +15,11 @@
                 <ul class="dropdown-menu">
                   <h6 class="dropdown-header"> Provide taxi services for the following.</h6>
                   <ul class="nav-item dropdown dropdown-toggle" data-bs-toggle="dropdown"> 
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="outstation_rates.php">Local and Outstation</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="local_taxi.php">Local and Outstation</a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="conference_tour.php">Conference</a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="wedding_tour.php">Wedding</a></li>
                   <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="ad_film_shooting.php"> Film & Ad Shooting</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="outstation_rates.php">Local and Outstation charges</a></li>
                   </ul>
                   <div class="dropdown-divider"></div>
                   <h6 class="dropdown-header"> North India Tourist Place </h6>
