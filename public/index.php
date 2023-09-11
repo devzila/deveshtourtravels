@@ -59,7 +59,7 @@
     <main class="main" id="top">
       <?php include('inc/nav.php')?>
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/del.png);background-position:right bottom;background-size:contain;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/del.jpg);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
