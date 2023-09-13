@@ -2,15 +2,35 @@
 <html lang="en-US" dir="ltr">
 
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="content-language" content="en"/>
+    <meta property="al:ios:app_name" content="DeveshTours&Travel"/>
+    <meta property="al:ios:app_store_id" content="284876795"/>
+    <meta property="twitter:app:id:ipad" name="twitter:app:id:ipad" content="284876795"/>
+    <meta property="twitter:app:id:iphone" name="twitter:app:id:iphone" content="284876795"/>
+    <meta property="al:ios:url" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
+    <meta property="twitter:app:url:ipad" name="twitter:app:url:ipad" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
+    <meta property="twitter:app:url:iphone" name="twitter:app:url:iphone" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
+    <meta name="apple-itunes-app" content="app-id=284876795, app-argument=https://deveshtourtravels.com/"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
 
 
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels</title>
+    <title>Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).</title>
+    <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
+    <meta property="og:url" content="https://deveshtourtravels.com/"/>
+    <meta property="og:site_name" content="DeveshTours&Travel"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:locale" content="en-IN"/>
+
+    <meta property="og:title" content="Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri )."/>
+    <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
+    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+    <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
+    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+
 
 
     <!-- ===============================================-->
@@ -41,166 +61,37 @@
     <!-- ===============================================-->
     <main class="main" id="top">
       <?php include 'inc/nav.php' ;?>
+
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/ked.jpeg);background-position:right bottom;background-size:contain;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/hari.png);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
-            <div  class="col-md-3 text-md-start py-3">
-              <h2 class="mb-3 display">CHAR DHAM YATRA Bus & Taxi PACKAGES</h2>
+            <div  class="col-md-4 text-center text-md-start py-3">
+              <h2 class="mb-4 display">	Haridwar 2 Nights Short Package :-</h2>
               <p>
-                Chardham Yatra: It takes place every year between April and October in Uttarakhand 
-                state of North India. This yatra is opened only for 6 months. (Yamunotri, Gangotri, Kedarnath and Badrinath) 
-                These are the 4 main pilgrimage sites, collectively known as the Chota Char Dham, which attract millions of pilgrims and spiritual
-                devotees seeking enlightenment.
+                Haridwar is one of the most popular Hindu pilgrimage places. River Ganges enters 
+                the North Indian plains at Haridwar. Haridwar or 'Gateway to Gods' is also known by the names of Mayapuri, Kapila, and 
+                Gangadhar. Hindu pilgrims and devotees gather at Haridwar to offer prayers on 
+                auspicious occasions.  
+                
               </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
+              <p>The water of River Ganga is considered so sacred at Haridwar that pilgrims carry 
+                back the water from the Ganges. It is believed that Haridwar has been sanctified by 
+                the presence of three Gods: Brahma, Vishnu, and Mahesh.  </p>
             </div>
           </div>
         </div>
       </section>
+
+
 
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section id="places">
-
-        <div class="container">
-          <div class="row flex-md-center">
-            <div class="col-md-11 col-lg-4 py-md-3 px-4 px-md-3 px-lg-0 px-xl-2 order-lg-1">
-              <h1 class="fw-bold fs-md-3 fs-xl-5">Amazing Char Dham Yatra Places </h1>
-              <hr class="text-primary my-4 my-lg-3 my-xl-4" style="height:3px; width:70px;" />
-              <p class="lh-lg"> Chardham Yatra in Uttarakhand, India is one of the most desired pilgrimages in Hinduism.
-                 All devotees, especially Shiva devotees, Vishnu devotees, aspire to visit this holy Char Dham once in a lifetime.
-                 Many pilgrims come to Badrinath Dham to pay obeisance to their ancestors.</p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">Explore</a>
-            </div>
-            <div>
-              <p class="lh-lg">Here travel by car from Delhi will take you to the holy shrines with the most comfortable experience.</p>
-            </div>
-            <div class="col-lg-8 order-lg-0 order-1 px-4 px-md-3 py-8 py-md-3">
-              <div class="carousel slide" id="carouselExampleControlsNoTouching" data-bs-touch="false" data-bs-interval="false">
-                <div class="carousel-inner">
-                  <div class="carousel-item active">
-                    <div class="row h-100">
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-200" src="assets/img/gallery/kedar.jpg" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs1340</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Dham</h5>
-                              <h6 class="text-600">5 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/dham6.jpeg" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs1340</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Dham</h5>
-                              <h6 class="text-600">5 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/dham7.jpeg" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs1340</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Dham</h5>
-                              <h6 class="text-600">5 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <div class="row h-100">
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/maldives.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs340</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Maldives</h5>
-                              <h6 class="text-600">5 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs540</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Indonesia</h5>
-                              <h6 class="text-600">5 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">Rs640</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Kathmandu</h5>
-                              <h6 class="text-600">6 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <div class="row h-100">
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$540</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Kathmandu</h5>
-                              <h6 class="text-600">5 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/maldives.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$860</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Maldives</h5>
-                              <h6 class="text-600">3 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"><span class="badge bg-primary">$860</span></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Indonesia</h5>
-                              <h6 class="text-600">7 days</h6>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="position-relative mt-5"><a class="carousel-control-prev carousel-icon z-index-2" href="#carouselExampleControlsNoTouching" role="button" data-bs-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="visually-hidden">Previous</span></a><a class="carousel-control-next carousel-icon z-index-2" href="#carouselExampleControlsNoTouching" role="button" data-bs-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="visually-hidden">Next</span></a></div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end of .container-->
-
-      </section>
+      
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -214,16 +105,51 @@
         <div class="container">
           <div class="row flex-center mb-5">
             <div class="col-lg-8 text-center">
-              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for your Chardham Yatra</h1>
+              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for your Haridwar 2 Nights Short Package </h1>
               <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-              <p class="mx-auto">Book your taxi for Chardham Yatra now, before the prices and rules change. Our chardham package by taxi from delhi is amazing.</p>
+              <p class="mx-auto">Devout believers feel that they will attain salvation and go to heaven after a dip in the 
+                sacred Ganga at Haridwar. Haridwar is also one of the four venues of the <b>Kumbh 
+                Mela</b> (occurring after a rotation of every twelve Years) and <b>Ardh Kumbh </b>(after every 
+                six years).  
+                </p>
+                <p>According to mythology drops of Amrit (Elixir) fell into the Brahmkund of Har-Ki-
+                  Pauri, therefore a dip in the Brahmakund on this particular day is considered very 
+                  auspicious</p>
             </div>
           </div>
-          <div class="col-12 col-xxl-7 text-center text-info">
-            <p> Including Yamunotri, Gangotri, Kedarnath and Badrinath Darshan</p>
-            <p>This package includes all toll taxes, state taxes, parking and driver allowance.</p>
-
-          </div>
+              <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                <p> Price on Request./ <br>
+                  Tour Itinerary./ <br>
+                  Day 1 ,<br>
+                  Arrival in Haridwar./<br> 
+                  StayHotel ./
+                  </p>
+              </div>
+              <p class="text-center">In the evening, you can visit <b>Hari Ki Puri</b>, which literally means the Lord's Footsteps.
+                <br>One of the most revered places in the city; it is believed to have the footprint of Lord 
+                Vishnu himself.  <br>Here you can take a dip in the River Ganga. (Please note, suggested activities are 
+                not included in the package.)   
+              </p>
+              <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                <p> Day 2 ./ <br>
+                  Haridwar Local Sightseeing, <br>
+                  StayHotel ./
+                  </p>
+              </div>
+              <p class="text-center">In the morning, you can pay your respects at the <b>Mansa Devi</b>  Temple. One of the 
+                most famous tourist attractions<br> in Haridwar, the temple can be reached by a cable  car.The temple is dedicated to the Goddess Mansa, the goddess that <br> fulfills wishes. The 
+                temple is also famous for the views it offers from the height that it is located at.<br>You can visit some other famous temples of Haridwar such as; <b>Daksh Temple, 
+                Chandi Devi Temple, Maya Devi Temple,</b> <br>Pawan Dham & Parad Shivling or you can 
+                visit Vaishno Devi Temple, a famous replica of the temple situated in Jammu and 
+                Kashmir.    </p>
+                <p class="text-center">Later, you can attend the evening <b>Ganga Aarti</b> at the <b>Vishnu Ghat</b>.  Return to your 
+                  hotel for a comfortable stay. </p>
+                  <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                    <p> Day 3 ./ <br>
+                      </p>
+                  </div>
+                  <p class="text-center">Check out of your <b>Haridwar</b> hotel in the morning. </p>
+        
         </div>
         <!-- end of .container-->
 
@@ -236,22 +162,7 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section class="pt-5" id="featuresVideos">
-
-        <div class="container">
-          <div class="row flex-center mb-5">
-            <div class="col-lg-8 text-center">
-              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Additional benefits of traveling to Chardham by car.</h1>
-              <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-              <p class="mx-auto">Along with the blessings of the Lord, the pilgrims enjoy
-                 the beauty of nature and the spiritual atmosphere of the snow-capped Himalayas, 
-                the melodious sound of birds and the views of the dense forests of Uttarakhand..</p>
-            </div>
-          </div>
-        </div>
-        <!-- end of .container-->
-
-      </section>
+      
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -260,42 +171,7 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-        <section class="pt-5" id="featuresVideos">
-
-          <div class="container">
-            <div class="row flex-center mb-5">
-              <div class="col-lg-8 text-center">
-                <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Where and How to start the Char Dham Yatra?</h1>
-                <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-                <p class="mx-auto text-dark">You need 11 to 12 days to complete your Chardham Yatra,
-                   it opens on the auspicious day of Akshaya Tritiya in April and remains open till Bhai Dooj.
-                     There are also many other pilgrimage sites like Gaumukh, Dhari Devi Temple,
-                     Trajuginarayan Temple, Tapovan, Along Ghati, Bheravanath Temple, Vasuki Tal,
-                      Chopta, Auli and Hemkund Sahib. You can start your journey from Delhi, Haridwar, Rishikesh or Dehradun as per your convenience. 
-                      You can reach Haridwar by just 4 hours drive from Delhi, the capital of India.
-                </p>
-              </div>
-              <div class="col-12 col-xxl-7 text-center text-info">
-                <p>Book Bus, Taxi, Tempo Traveller, Car for Char Dham Yatra from Devesh Tour And Travels, </p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 7021159617</a>
-              </div>
-              <div class="col-12 col-xxl-7  text-center text-info">
-                <p>You can book Bus, Tempo Traveller & Taxi from any city in India at cheap & best rates through<br>
-                  Devesh Tour & Travels.
-                </p>
-              </div>
-              <div class="col-12 col-xxl-7  text-center text-dark">
-                <p>Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car<br>
-                   Booking Services based in Delhi,India. We provide all types of buses and taxis <br>from hatchback to Innova,
-                    Dzire, Ertiga, sedan for char Dham travel.
-                </p>
-                <p>We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).<br>
-                   Book Char Dham Tour by Bus & Taxi from Delhi, India at affordable price<br>
-                    through Devesh Tour & Travels.</p>
-              </div>
-            </div>
-          </div>
-          <!-- end of .container-->
-  
+       
         </section>
 
         <!-- <section> close ============================-->
@@ -307,46 +183,7 @@
       <!-- <section> begin ============================-->
 
 
-        <section class="pt-5" id="featuresVideos">
-
-          <div class="container">
-            <div class="row flex-center mb-5">
-              <div class="col-lg-8 text-center">
-                <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Char Dham Tour Packages:</h1>
-                <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-                <p class="mx-auto ">We at Devesh Tour & Travels provide customized tour packages for Char Dham Yatra, 
-                  Amarnath Yatra bus and taxi services as well as other pilgrimage packages, corporate tour packages etc.
-                   These tour packages are created by our team of expert tour organisers.
-                   For more details please refer to our Char Dham Tour Packages.
-                </p>
-                <div class="col-12 col-xxl-7 text-center py-5">
-                  <h4>Delhi to Char Dham Taxi Fare</h4>
-                  <p>Char Dham taxi fare structure is slightly different from other routes.
-                     Taxi to Char Dham is not available on per km basis but on per day basis which includes all other hidden charges
-                      like driver allowance, state tax etc.
-                    </p>
-                </div>
-                <div class="col-12 col-xxl-7 text-center py-5">
-                  <h4>Delhi to Char Dham Taxi Fare ( 2023 )</h4>
-                  <p class="mx-auto text-dark py-3">The fare of different types of taxis per day is as follows:-</p>
-                  <p class="mx-auto text-info ">Desire or equivalent Rs. 4800/day.</p>
-                  <p class="mx-auto text-info ">Kia Carens Rs. 6500/day.</p>
-                  <p class="mx-auto text-info ">Innova Crysta Rs. 7250/day.</p>
-                  <p class="mx-auto text-info ">Tempo Traveller 12-Seater Rs 10 00 per day.</p>
-                  <p class="mx-auto text-info ">Tempo Traveller 17-Seater Rs 12 000 per day.</p>
-                  <p class="mx-auto text-dark py-3">Minimum charges will be applicable as under: -</p>
-                  <p class="mx-auto text-info">For 1 Dham: Minimum 6 days payment.</p>
-                  <p class="mx-auto text-info">For 2 Dham: Minimum 8 days payment.</p>
-                  <p class="mx-auto text-info">For 4 Dham: Minimum 12 days payment. </p>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end of .container-->
-  
-        </section>
-
+       
         <!-- <section> close ============================-->
       <!-- ============================================-->
 

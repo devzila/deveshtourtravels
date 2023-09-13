@@ -67,22 +67,13 @@
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
             <div class="col-md-4 text-center text-md-start py-3">
-              <h2 class="mb-4 display">LOCAL AND OUTSTATION CHARGES</h2>
+              <h2 class="mb-4 display">LOCAL AND OUTSTATION Travel</h2>
               <p class="text-info">Cheap Taxi Rates in Delhi with Devesh Tour and Travels</p>
-              <p class="text-info">
-                Updated list of Taxi Fares in Delhi NCR (23 - 24)
+           
+              <p>Our fleet of well-maintained vehicles and seasoned drivers are available to serve you, whether you require a comfortable ride within your city or are organizing an outstation trip. Our commitment is to provide safe, convenient, and punctual transportation.
               </p>
-            </div>
-            
-            <div class="col-md-9">
               <p>Devesh Tour & Travels is a Delhi based reliable and efficient cab service for outstation and local use, that offers a range of vehicles to suit the requirements of its clients. Here, you can find the current taxi fare in Delhi NCR from Devesh Tour & Travels, we will also try to compare with the fares of other taxi companies in the city</p>
-            </div>
             
-            <div>
-              
-              The cost of a taxi ride for local and outbound travel in Delhi may vary depending on several factors such as time of day, distance travelled and type of vehicle. It is important to understand these factors in order to estimate the cost of your ride. Taxi rates in Delhi are controlled by government authorities, ensuring that all taxi companies charge the same rate. But some private cab service providers are demanding different amounts according to their facilities. Let's take a look at some of the cab prices from the lists below.
-
-            </div>
           </div>
         </div>
       </section>

@@ -11,7 +11,7 @@
               <li class="nav-item"><a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'taj_mahal.php' ? 'active' : ' text-600' ;?>"  href="taj_mahal.php">Taj Mahal Trip</a></li>
               <li class="nav-item"><a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'char_dham.php' ? 'active' : ' text-600' ;?>" href="char_dham.php">Char Dham Yatra</a></li>
               <li class="nav-item dropdown">
-                <a class="nav-link text-600 dropdown-toggle" data-bs-toggle="dropdown" href="tour_packages.php" role="button" aria-expanded="false">Services</a>
+                <a class="nav-link text-600 dropdown-toggle" data-bs-toggle="dropdown" href="services.php" role="button" aria-expanded="false">Services</a>
                 <ul class="dropdown-menu">
                   <a class="dropdown-item" href="#">
                     Provide taxi services for the following. &raquo;
@@ -61,7 +61,20 @@
                     Tour packages &raquo;
                   </a>
                   <ul class="dropdown-menu dropdown-submenu" >
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="tour_packages.php"> Tour Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/haridwar_2_nights.php"> haridwar 2 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/rishikesh_3_nights.php"> rishikesh 3 nights  Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/mussoorie_3_nights.php"> mussoorie 3 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/chamba_3_nights.php"> chamba 3 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/gumkhal_2_nights.php"> gumkhal 2 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/khirsu_2_nights.php"> khirsu 2 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/khirsu_4_nights.php"> khirsu 4 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/khirsu_auli_4_nights.php"> khirsu auli 4 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/nainital_2_nights.php"> nainital 2 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/bhimtal_nainital_4_nights.php"> bhimtal nainital 4 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/nainital_mukteshwar_5_nights.php"> nainital mukteshwar 5 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/jim_corbett_1_nights.php"> jim corbett 1 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/nainital_almora_7_nights.php"> nainital almora 7 nights Packages</a></li>
+                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/kumaon_8_nights.php"> kumaon 8 nights Packages</a></li>
                  </ul>
                 </ul>
               </li>

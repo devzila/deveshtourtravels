@@ -18,18 +18,19 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: Wedding Transport Bus & Taxi Services &amp; We provide bus and taxi services for 	Wedding Transport.</title>
+    <title>Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).</title>
     <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:url" content="https://deveshtourtravels.com/"/>
     <meta property="og:site_name" content="DeveshTours&Travel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: Wedding Transport Bus & Taxi PACKAGES &amp; We provide bus and taxi services for 	Wedding Transport."/>
+    <meta property="og:title" content="Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri )."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
-    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/images3.jpeg"/>
+    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/images3.jpeg"/>
+    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+
 
 
     <!-- ===============================================-->
@@ -62,150 +63,35 @@
       <?php include 'inc/nav.php' ;?>
 
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/kia.png);background-position:right bottom;background-size:contain;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/hari.png);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
             <div  class="col-md-4 text-center text-md-start py-3">
-              <h2 class="mb-4 display">	Wedding Transport Bus & Taxi PACKAGES</h2>
+              <h2 class="mb-4 display">	Haridwar 2 Nights Short Package :-</h2>
               <p>
-                Elevate your special day with our wedding transportation services. We provide elegant and luxurious vehicles for the bride and groom, as well as convenient transportation options for your guests.
-              </p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
+                Haridwar is one of the most popular Hindu pilgrimage places. River Ganges enters 
+                the North Indian plains at Haridwar. Haridwar or 'Gateway to Gods' is also known by the names of Mayapuri, Kapila, and 
+                Gangadhar. Hindu pilgrims and devotees gather at Haridwar to offer prayers on 
+                auspicious occasions.  
+                
+              </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
+              <p>The water of River Ganga is considered so sacred at Haridwar that pilgrims carry 
+                back the water from the Ganges. It is believed that Haridwar has been sanctified by 
+                the presence of three Gods: Brahma, Vishnu, and Mahesh.  </p>
             </div>
           </div>
         </div>
       </section>
+
+
 
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section id="places">
-
-        <div class="container">
-          <div class="row flex-md-center">
-            <div class="col-md-11 col-lg-4 py-md-3 px-4 px-md-3 px-lg-0 px-xl-2 order-lg-1">
-              <h1 class="fw-bold fs-md-3 fs-xl-5">Book your Taxi Now for Amazing Services:- </h1>
-              <hr class="text-primary my-4 my-lg-3 my-xl-4" style="height:3px; width:70px;" />
-              <p>At Devesh Tour and Travel our dedication to making your travel dreams come true is unwavering. With our extensive experience and unwavering commitment to excellence, we assure you a memorable journey filled with comfort, convenience, and adventure. Explore the world with us and let us be your trusted travel companion on every remarkable voyage.</p>
-              <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
-            </div>
-            <div class="col-lg-8 order-lg-0 order-1 px-4 px-md-3 py-8 py-md-3">
-              <div class="carousel slide" id="carouselExampleControlsNoTouching" data-bs-touch="false" data-bs-interval="false">
-                <div class="carousel-inner">
-                  <div class="carousel-item active">
-                    <div class="row h-100">
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-200" src="assets/img/gallery/ert.jpg" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Ertiga</h5>
-                              
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/dzire.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Dzire</h5>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kiaceren.jpg" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Kiaceren</h5>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <div class="row h-100">
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/bus.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Bus</h5>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/tempo.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Tempo bus</h5>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kiaceren.jpg" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Kiaceren</h5>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <div class="row h-100">
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/dzire.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Dzire</h5>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/innova.png" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Innova Crysta</h5>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kiaceren.jpg" alt="" />
-                          <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
-                            <div class="pt-3"></div>
-                            <div class="ps-3 d-flex justify-content-between align-items-center">
-                              <h5 class="text-white">Kiaceren</h5>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="position-relative mt-5"><a class="carousel-control-prev carousel-icon z-index-2" href="#carouselExampleControlsNoTouching" role="button" data-bs-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="visually-hidden">Previous</span></a><a class="carousel-control-next carousel-icon z-index-2" href="#carouselExampleControlsNoTouching" role="button" data-bs-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="visually-hidden">Next</span></a></div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end of .container-->
-
-      </section>
+      
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -214,7 +100,60 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-     
+      <section class="pt-5" id="featuresVideos">
+
+        <div class="container">
+          <div class="row flex-center mb-5">
+            <div class="col-lg-8 text-center">
+              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for your Haridwar 2 Nights Short Package </h1>
+              <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
+              <p class="mx-auto">Devout believers feel that they will attain salvation and go to heaven after a dip in the 
+                sacred Ganga at Haridwar. Haridwar is also one of the four venues of the <b>Kumbh 
+                Mela</b> (occurring after a rotation of every twelve Years) and <b>Ardh Kumbh </b>(after every 
+                six years).  
+                </p>
+                <p>According to mythology drops of Amrit (Elixir) fell into the Brahmkund of Har-Ki-
+                  Pauri, therefore a dip in the Brahmakund on this particular day is considered very 
+                  auspicious</p>
+            </div>
+          </div>
+              <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                <p> Price on Request./ <br>
+                  Tour Itinerary./ <br>
+                  Day 1 ,<br>
+                  Arrival in Haridwar./<br> 
+                  StayHotel ./
+                  </p>
+              </div>
+              <p class="text-center">In the evening, you can visit <b>Hari Ki Puri</b>, which literally means the Lord's Footsteps.
+                <br>One of the most revered places in the city; it is believed to have the footprint of Lord 
+                Vishnu himself.  <br>Here you can take a dip in the River Ganga. (Please note, suggested activities are 
+                not included in the package.)   
+              </p>
+              <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                <p> Day 2 ./ <br>
+                  Haridwar Local Sightseeing, <br>
+                  StayHotel ./
+                  </p>
+              </div>
+              <p class="text-center">In the morning, you can pay your respects at the <b>Mansa Devi</b>  Temple. One of the 
+                most famous tourist attractions<br> in Haridwar, the temple can be reached by a cable  car.The temple is dedicated to the Goddess Mansa, the goddess that <br> fulfills wishes. The 
+                temple is also famous for the views it offers from the height that it is located at.<br>You can visit some other famous temples of Haridwar such as; <b>Daksh Temple, 
+                Chandi Devi Temple, Maya Devi Temple,</b> <br>Pawan Dham & Parad Shivling or you can 
+                visit Vaishno Devi Temple, a famous replica of the temple situated in Jammu and 
+                Kashmir.    </p>
+                <p class="text-center">Later, you can attend the evening <b>Ganga Aarti</b> at the <b>Vishnu Ghat</b>.  Return to your 
+                  hotel for a comfortable stay. </p>
+                  <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                    <p> Day 3 ./ <br>
+                      </p>
+                  </div>
+                  <p class="text-center">Check out of your <b>Haridwar</b> hotel in the morning. </p>
+        
+        </div>
+        <!-- end of .container-->
+
+      </section>
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -232,7 +171,9 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-        
+       
+        </section>
+
         <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -242,7 +183,7 @@
       <!-- <section> begin ============================-->
 
 
-        
+       
         <!-- <section> close ============================-->
       <!-- ============================================-->
 
