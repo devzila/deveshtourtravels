@@ -16,18 +16,63 @@
                       data-toggle="dropdown" aria-expanded="false">Services</a>
                   <ul class="dropdown-menu" aria-labelledby="services">
                     <li class="dropdown">
-                      <a class="dropdown-item dropdown-toggle" href="#">Taxi Services</a>
+                      <a class="dropdown-item dropdown-toggle" href="#">Provide taxi services for the following. </a>
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="himachal_tour.php">Himachal Tour</a></li>
-                        <li><a class="dropdown-item" href="local_taxi.php">Local Taxi</a></li>
+                         <li><a class="dropdown-item"  href="local_taxi.php">Local and Outstation</a></li>
+                        <li><a class="dropdown-item"  href="conference_tour.php">Conference</a></li>
+                        <li><a class="dropdown-item"  href="wedding_tour.php">Wedding</a></li>
+                        <li><a class="dropdown-item"  href="ad_film_shooting.php"> Film & Ad Shooting</a></li>
+                        <li><a class="dropdown-item"  href="outstation_rates.php">Local and Outstation charges</a></li>
                       </ul>
                     </li>
 
                     <li class="dropdown">
-                      <a class="dropdown-item dropdown-toggle" href="#">North India Tour</a>
+                      <a class="dropdown-item dropdown-toggle" href="#">North India Tourist Place</a>
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="mathura.php">Mathura Tour</a></li>
-                        <li><a class="dropdown-item" href="rajasthan_tour.php">Rajasthan Tour</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand_tour.php">  Uttrakhand (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="himachal_tour.php"> Himachal Pradesh (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="jammu_tour.php">Jammu & Kashmir (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="ladakh_tour.php">  Ladakh ( Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="amritsar.php">   Amritsar Golden Temple & wagah border</a></li>
+                        <li><a class="dropdown-item"  href="rajasthan_tour.php"> Rajasthan</a></li>
+                        <li><a class="dropdown-item"  href="uttarpradesh_tour.php"> Uttar Pradesh</a></li>
+                        <li><a class="dropdown-item"  href="madhaya_pradesh.php">  Madhya Pradesh</a></li>
+                      </ul>
+                    </li>
+                    <li class="dropdown">
+                      <a class="dropdown-item dropdown-toggle" href="#">Noth India Pilgrimage Place</a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item"  href="rishikesh.php"> Rishikesh</a></li>
+                        <li><a class="dropdown-item"  href="haridwar.php"> Haridwar</a></li>
+                        <li><a class="dropdown-item"  href="bhuvneshwar.php">  Patal Bhuvneshwar</a></li>
+                        <li><a class="dropdown-item"  href="kailash.php">Aadi Kailash Om parvat</a></li>
+                        <li><a class="dropdown-item"  href="mathura.php">  Mathura</a></li>
+                        <li><a class="dropdown-item"  href="khatusyam.php"> Khatu Shyam</a></li>
+                        <li><a class="dropdown-item"  href="balaji.php">Mehandipur Balaji</a></li>
+                        <li><a class="dropdown-item"  href="salasar.php"> Salasar Balaji</a></li>
+                        <li><a class="dropdown-item"  href="allahabad.php">   Allahabad </a></li>
+                        <li><a class="dropdown-item"  href="varanasi.php">  Varanasi/Ayodhya</a></li>
+                      </ul>
+                    </li>
+                    <li class="dropdown">
+                      <a class="dropdown-item dropdown-toggle" href="#">Tour packages</a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item"  href="utarakhand/rishikesh_3_nights.php">  Uttrakhand Rishikesh(Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/chamba_3_nights.php">  Uttrakhand Chambha (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/bhimtal_nainital_4_nights.php">  Uttrakhand Bhimtal Nainital (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/gumkhal_2_nights.php">  Uttrakhand Gumkhal (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/haridwar_2_nights.php">  Uttrakhand Haridwar(Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/jim_corbett_1_nights.php">  Uttrakhand Jim corbett(Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/khirsu_2_nights.php">  Uttrakhand Khirsu (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/khirsu_4_nights.php">  Uttrakhand  Khirsu  4 nights(Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/khirsu_auli_4_nights.php">  Uttrakhand Khirsu auli(Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/kumaon_8_nights.php">  Uttrakhand  Kumaon (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/mussoorie_3_nights.php">  Uttrakhand Mussoorie (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/nainital_2_nights.php">  Uttrakhand Nainital 2 nights (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/nainital_almora_7_nights.php">  Uttrakhand Nainital ALmora (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="utarakhand/nainital_mukteshwar_5_nights.php">  Uttrakhand Nainital Mukteshwar (Hill station)</a></li>
+                        
+                        
                       </ul>
                     </li>
 

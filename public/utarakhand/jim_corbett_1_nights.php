@@ -18,18 +18,18 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).</title>
+    <title>Devesh Tour Travels: Jim Corbett Short -Weekend Package  &amp; We provide bus and taxi services for Jim Corbett Short -Weekend Package .</title>
     <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:url" content="https://deveshtourtravels.com/"/>
     <meta property="og:site_name" content="DeveshTours&Travel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri )."/>
+    <meta property="og:title" content="Devesh Tour Travels: Jim Corbett Short -Weekend Package  &amp; We provide bus and taxi services for Jim Corbett Short -Weekend Package ."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/jim.png"/>
 
 
 
@@ -63,24 +63,23 @@
       <?php include 'inc/nav.php' ;?>
 
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/hari.png);background-position:right bottom;background-size:contain;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/jim.png);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
             <div  class="col-md-4 text-center text-md-start py-3">
-              <h2 class="mb-4 display">	Haridwar 2 Nights Short Package :-</h2>
+              <h2 class="mb-4 display">	Jim Corbett Short -Weekend Package :-</h2>
               <p>
-                Haridwar is one of the most popular Hindu pilgrimage places. River Ganges enters 
-                the North Indian plains at Haridwar. Haridwar or 'Gateway to Gods' is also known by the names of Mayapuri, Kapila, and 
-                Gangadhar. Hindu pilgrims and devotees gather at Haridwar to offer prayers on 
-                auspicious occasions.  
+                he fable of Edward Jim Corbett is still persisting in the minds and hearts of the people of 
+                Garhwal and Kumaon. People all over the world know Jim Corbett from his fabulous writings 
+                as a famous hunter who later became the adversary of many notorious man-eaters. There 
+                are four biographies on him and three films on his life that displays the lucid accounts of his 
+                exploits that he has given in his books.  
                 
               </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
-              <p>The water of River Ganga is considered so sacred at Haridwar that pilgrims carry 
-                back the water from the Ganges. It is believed that Haridwar has been sanctified by 
-                the presence of three Gods: Brahma, Vishnu, and Mahesh.  </p>
+             
             </div>
           </div>
         </div>
@@ -105,51 +104,43 @@
         <div class="container">
           <div class="row flex-center mb-5">
             <div class="col-lg-8 text-center">
-              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for your Haridwar 2 Nights Short Package </h1>
+              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for your Jim Corbett Short -Weekend Package </h1>
               <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-              <p class="mx-auto">Devout believers feel that they will attain salvation and go to heaven after a dip in the 
-                sacred Ganga at Haridwar. Haridwar is also one of the four venues of the <b>Kumbh 
-                Mela</b> (occurring after a rotation of every twelve Years) and <b>Ardh Kumbh </b>(after every 
-                six years).  
+              <p class="mx-auto">Indulge your spirit of adventure as you join this 03 day Holiday Tour to visit breathtaking 
+                parts of Corbett National  Park, far from the usual tourist haunts.  
                 </p>
-                <p>According to mythology drops of Amrit (Elixir) fell into the Brahmkund of Har-Ki-
-                  Pauri, therefore a dip in the Brahmakund on this particular day is considered very 
-                  auspicious</p>
+                <p>Tucked away in the foothills of the Himalayan belt, Corbett is a land of striking beauty.  
+                  Keep your cameras ready as you have to capture the daring wildlife species found here. 
+                  From elusive Royal Bengal Tiger to Leopards, wildlife safari to Corbett Tiger Reserve will be 
+                  everlasting and memorable.  Trust us, you will never tire of the sights and sounds and smells of this wondrous land. 
+                  This short trip to Corbett is suitable for Corporate outing on a weekend. 
+                  </p>
             </div>
           </div>
               <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
-                <p> Price on Request./ <br>
+                <p> 
                   Tour Itinerary./ <br>
                   Day 1 ,<br>
-                  Arrival in Haridwar./<br> 
-                  StayHotel ./
+                  Arrive in Corbett ./<br> 
+                  
                   </p>
               </div>
-              <p class="text-center">In the evening, you can visit <b>Hari Ki Puri</b>, which literally means the Lord's Footsteps.
-                <br>One of the most revered places in the city; it is believed to have the footprint of Lord 
-                Vishnu himself.  <br>Here you can take a dip in the River Ganga. (Please note, suggested activities are 
-                not included in the package.)   
+              <p class="text-center">Arrive at Corbett, Check-in at the hotel. After breakfast, go for sightseeing like;  Garjiya Devi <br>
+                Temple or Corbett museum or you can go for a safari after lunch.   
+                Later in the evening, you can spend time at the hotel.<br> Overnight stay at the hotel Ramnagar.   
               </p>
               <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
                 <p> Day 2 ./ <br>
-                  Haridwar Local Sightseeing, <br>
-                  StayHotel ./
+                  Corbett Jungle Safari - Departure  <br>
+                  
                   </p>
               </div>
-              <p class="text-center">In the morning, you can pay your respects at the <b>Mansa Devi</b>  Temple. One of the 
-                most famous tourist attractions<br> in Haridwar, the temple can be reached by a cable  car.The temple is dedicated to the Goddess Mansa, the goddess that <br> fulfills wishes. The 
-                temple is also famous for the views it offers from the height that it is located at.<br>You can visit some other famous temples of Haridwar such as; <b>Daksh Temple, 
-                Chandi Devi Temple, Maya Devi Temple,</b> <br>Pawan Dham & Parad Shivling or you can 
-                visit Vaishno Devi Temple, a famous replica of the temple situated in Jammu and 
-                Kashmir.    </p>
-                <p class="text-center">Later, you can attend the evening <b>Ganga Aarti</b> at the <b>Vishnu Ghat</b>.  Return to your 
-                  hotel for a comfortable stay. </p>
-                  <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
-                    <p> Day 3 ./ <br>
-                      </p>
-                  </div>
-                  <p class="text-center">Check out of your <b>Haridwar</b> hotel in the morning. </p>
-        
+              <p class="text-center">Get up early in the morning and go for a jeep safari at Corbett National Park, <br>  
+                After safari back to the hotel have, drive back to Delhi. On arrival in Delhi, we will transfer <br>
+                you to Delhi Airport/Railway Station. 
+                <br>Our services will end there and you can go back to your places with some of the best 
+                moments and memories of your life.  </p>
+                
         </div>
         <!-- end of .container-->
 
@@ -451,14 +442,6 @@
     <!-- ===============================================-->
     <!--    JavaScripts-->
     <!-- ===============================================-->
-    <script src="vendors/@popperjs/popper.min.js"></script>
-    <script src="vendors/bootstrap/bootstrap.min.js"></script>
-    <script src="vendors/is/is.min.js"></script>
-    <script src="vendors/plyr/plyr.polyfilled.min.js"></script>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
-    <script src="assets/js/theme.js"></script>
-
-    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700;800;900&amp;display=swap" rel="stylesheet">
-  </body>
-
+    <?php include('inc/footer.php') ?>
+</body>
 </html>

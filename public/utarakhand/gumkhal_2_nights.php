@@ -18,18 +18,18 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).</title>
+    <title>Devesh Tour Travels: Weekend Stay near Gumkhal and Lansdowne &amp; We provide bus and taxi services for Weekend Stay near Gumkhal and Lansdowne. </title>
     <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:url" content="https://deveshtourtravels.com/"/>
     <meta property="og:site_name" content="DeveshTours&Travel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri )."/>
+    <meta property="og:title" content="Devesh Tour Travels: Weekend Stay near Gumkhal and Lansdowne  &amp; We provide bus and taxi services for Weekend Stay near Gumkhal and Lansdowne ."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/gumkhal.png"/>
 
 
 
@@ -63,24 +63,27 @@
       <?php include 'inc/nav.php' ;?>
 
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/hari.png);background-position:right bottom;background-size:contain;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/gumkhal.png);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
             <div  class="col-md-4 text-center text-md-start py-3">
-              <h2 class="mb-4 display">	Haridwar 2 Nights Short Package :-</h2>
+              <h2 class="mb-4 display">	Weekend Stay near Gumkhal and Lansdowne  :-</h2>
               <p>
-                Haridwar is one of the most popular Hindu pilgrimage places. River Ganges enters 
-                the North Indian plains at Haridwar. Haridwar or 'Gateway to Gods' is also known by the names of Mayapuri, Kapila, and 
-                Gangadhar. Hindu pilgrims and devotees gather at Haridwar to offer prayers on 
-                auspicious occasions.  
-                
+                Originally known as Kaludanda (Garhwali: कालुडांडा) after kalu (black) and danda (hills) in 
+                Garhwali, Lansdowne was founded and named after the then Viceroy of India (1888–1894), Lord 
+                Lansdowne in 1887. Lansdowne is one of the most serene hill stations in India and has been popular 
+                since the British came to India. Lansdowne is different from other hill stations as it is well 
+                connected by motorable roads but remote in its own way. It is surrounded by dense oak and blue 
+                deodar forests at an altitude of 1,706 meters above sea level in the Pauri Garhwal district of 
+                Uttarakhand state.  
+                                
               </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
-              <p>The water of River Ganga is considered so sacred at Haridwar that pilgrims carry 
-                back the water from the Ganges. It is believed that Haridwar has been sanctified by 
-                the presence of three Gods: Brahma, Vishnu, and Mahesh.  </p>
+              <p>There is a road located between Jaiharikhal and 
+                Lansdowne called Thandi Road, where Indians were not allowed to go during the British period, it 
+                was only for Europeans. A parallel road below this road was used for movement of Indians.  </p>
             </div>
           </div>
         </div>
@@ -105,50 +108,55 @@
         <div class="container">
           <div class="row flex-center mb-5">
             <div class="col-lg-8 text-center">
-              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for your Haridwar 2 Nights Short Package </h1>
+              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for your Weekend Stay near Gumkhal and Lansdowne </h1>
               <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-              <p class="mx-auto">Devout believers feel that they will attain salvation and go to heaven after a dip in the 
-                sacred Ganga at Haridwar. Haridwar is also one of the four venues of the <b>Kumbh 
-                Mela</b> (occurring after a rotation of every twelve Years) and <b>Ardh Kumbh </b>(after every 
-                six years).  
+              <h3 class="text-md-start">Local attractions :- </h3>
+              <p class="mx-auto">The war memorial located at the parade ground of the Garhwal Rifles Center is an attraction for 
+                the visitors. Prior permission must be obtained from the military authority. The places of interest 
+                around the city include Tip n Top View Point, Kaleshwar Mahadev Temple, which is the most 
+                visited temple in Lansdowne and attracts thousands of devotees in the month of Sawan (Indian 
+                Monsoon), Santoshi Mata Temple, Regimental Museum ( also known as). as Lansdowne. 
+                Darwan Singh Museum, Bhullatal Lake, St. Mary's Church and Lover's Lane. 
+                Tarakeshwar Mahadev Temple, Bhairav Garhi Temple, Bhim Pakoda can be visited for 
+                excursions from the city. The annual 'Sharadotsav' (Festival of Autumn) is also organized at this 
+                hill station during the autumn season. The old cemetery is in Kitchener Lines. Many war veterans 
+                are buried in the old cemetery and graves date back to the mid-1850s. 
+                <br>The Garhwal Rifles Regimental Museum, also called Darwan Singh Sanghralaya, houses 
+                artefacts from the beginning of the Regiment. The Garhwal Rifles participated in the two world 
+                wars amongst other battles through its more than 100 years of history. Many artifacts, including 
+                photographs, arms used by regimental commanders, captured weapons, campaign history and 
+                other information are displayed. There are medals won by erstwhile Garhwal Rifle soldiers, that 
+                have been put on display, including the Victoria Cross awarded to Darwan Singh Negi and Gabar 
+                Singh Negi. 
+                <h3 class="text-md-start">How to reach Lansdowne</h3> 
+                <hr>
+                It is the nearest hill station to Delhi and can be reached by road or train. The nearest railway 
+                station is Kotdwar which is situated at a distance of 44 km at an altitude of 370 m. Since 
+                Lansdowne is at an altitude of more than 1,300 meters above Kotdwara, the trek from Kotdwara 
+                to Lansdowne is quite difficult and beautiful. The nearest airport is Jolly Grant Airport, near Dehradun at a distance of 152 km via Kotdwar-
+                Haridwar Road. Another road way to reach Lansdowne is from Delhi to Lansdowne via Meerut, Bijnor, Najibabad, 
+                Kotdwar. The road quality is mostly good since the opening of the Delhi-Meerut Expressway. The 
+                Garhwal Rifles has painted a huge signboard with directions on the rocks at the right turn of NH-
+                119 leading to Lansdowne. Lansdowne is 83 km from Pauri and about 276.5 km from Delhi. 
+                <h3 class="text-md-start">Nearby places </h3>
+                <hr>
+                The Tarakeshwar Mahadev Temple with its Shivalinga and a Kund (a small pond) known as 
+                Gauri Kund is located 39 km from Lansdowne. People take bath in Gauri Kund before entering 
+                the temple. Durga Devi Temple is situated between Kotdwara and Lansdowne, at a distance of 
+                24 km from Kotdwara. And Jwalpa Devi Temple is situated on the Pauri-Kotdwar road, which is 
+                situated at a distance of 93 km from Kotdwar. Durga Devi Temple is one of the oldest Siddha 
+                Peethas in India.<hr>Kanvashram is located 14 km from Kotdwara Railway Station. Shakuntala, the wife of King 
+                Dushyanta and abandoned by him, is said to have given birth to Bharata in the hermitage of sage 
+                Kanva in ancient India. India got its name 'Bharat' in Sanskrit when Bharata became the king 
+                after the death of his father. 
+                <hr>
                 </p>
-                <p>According to mythology drops of Amrit (Elixir) fell into the Brahmkund of Har-Ki-
-                  Pauri, therefore a dip in the Brahmakund on this particular day is considered very 
-                  auspicious</p>
+                <p class="text-dark">Kotdwar is a city, municipal council in Pauri Garhwal district in the Indian state of Uttarakhand. It is 
+                  just 105 km away from the district headquarter, Pauri town. It is the eighth largest city of 
+                  Uttarakhand. Due to its location on the banks of river Khoh, its old name was 'Kootdwar', which 
+                  means the entrance of the high hill as 'Chitrakoot'.</p>
             </div>
           </div>
-              <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
-                <p> Price on Request./ <br>
-                  Tour Itinerary./ <br>
-                  Day 1 ,<br>
-                  Arrival in Haridwar./<br> 
-                  StayHotel ./
-                  </p>
-              </div>
-              <p class="text-center">In the evening, you can visit <b>Hari Ki Puri</b>, which literally means the Lord's Footsteps.
-                <br>One of the most revered places in the city; it is believed to have the footprint of Lord 
-                Vishnu himself.  <br>Here you can take a dip in the River Ganga. (Please note, suggested activities are 
-                not included in the package.)   
-              </p>
-              <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
-                <p> Day 2 ./ <br>
-                  Haridwar Local Sightseeing, <br>
-                  StayHotel ./
-                  </p>
-              </div>
-              <p class="text-center">In the morning, you can pay your respects at the <b>Mansa Devi</b>  Temple. One of the 
-                most famous tourist attractions<br> in Haridwar, the temple can be reached by a cable  car.The temple is dedicated to the Goddess Mansa, the goddess that <br> fulfills wishes. The 
-                temple is also famous for the views it offers from the height that it is located at.<br>You can visit some other famous temples of Haridwar such as; <b>Daksh Temple, 
-                Chandi Devi Temple, Maya Devi Temple,</b> <br>Pawan Dham & Parad Shivling or you can 
-                visit Vaishno Devi Temple, a famous replica of the temple situated in Jammu and 
-                Kashmir.    </p>
-                <p class="text-center">Later, you can attend the evening <b>Ganga Aarti</b> at the <b>Vishnu Ghat</b>.  Return to your 
-                  hotel for a comfortable stay. </p>
-                  <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
-                    <p> Day 3 ./ <br>
-                      </p>
-                  </div>
-                  <p class="text-center">Check out of your <b>Haridwar</b> hotel in the morning. </p>
         
         </div>
         <!-- end of .container-->
@@ -451,14 +459,7 @@
     <!-- ===============================================-->
     <!--    JavaScripts-->
     <!-- ===============================================-->
-    <script src="vendors/@popperjs/popper.min.js"></script>
-    <script src="vendors/bootstrap/bootstrap.min.js"></script>
-    <script src="vendors/is/is.min.js"></script>
-    <script src="vendors/plyr/plyr.polyfilled.min.js"></script>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
-    <script src="assets/js/theme.js"></script>
-
-    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700;800;900&amp;display=swap" rel="stylesheet">
-  </body>
+    <?php include('inc/footer.php') ?>
+</body>
 
 </html>

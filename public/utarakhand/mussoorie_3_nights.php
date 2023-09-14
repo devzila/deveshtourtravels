@@ -18,18 +18,18 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).</title>
+    <title>Devesh Tour Travels: Mussoorie 3 Nights Package with Dhanaulti, Kanatal  &amp; We provide bus and taxi services for Mussoorie 3 Nights Package with Dhanaulti, Kanatal </title>
     <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:url" content="https://deveshtourtravels.com/"/>
     <meta property="og:site_name" content="DeveshTours&Travel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri )."/>
+    <meta property="og:title" content="Devesh Tour Travels: Mussoorie 3 Nights Package with Dhanaulti, Kanatal &amp; We provide bus and taxi services for Mussoorie 3 Nights Package with Dhanaulti, Kanatal ."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
-    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/mussoorie.png"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/mussoorie.png"/>
 
 
 
@@ -63,24 +63,29 @@
       <?php include 'inc/nav.php' ;?>
 
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/hari.png);background-position:right bottom;background-size:contain;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/mussoorie.png);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
             <div  class="col-md-4 text-center text-md-start py-3">
-              <h2 class="mb-4 display">	Haridwar 2 Nights Short Package :-</h2>
+              <h2 class="mb-4 display">	Mussoorie 3 Nights Package with Dhanaulti, Kanatal </h2>
+              <p class="text-danger fs-2" >Price on Request </p>
               <p>
-                Haridwar is one of the most popular Hindu pilgrimage places. River Ganges enters 
-                the North Indian plains at Haridwar. Haridwar or 'Gateway to Gods' is also known by the names of Mayapuri, Kapila, and 
-                Gangadhar. Hindu pilgrims and devotees gather at Haridwar to offer prayers on 
-                auspicious occasions.  
+              <p>
+                Mussoorie is known as the <b>Queen of Hill stations,</b> Mussoorie is a heaven for those 
+                  looking to get away from the smoke-stained city lives for a while, the breathtaking 
+                  Doon Valley, the refreshing atmosphere, the picturesque landscape and of course 
+                  the unadulterated aura.   
                 
-              </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
-              <p>The water of River Ganga is considered so sacred at Haridwar that pilgrims carry 
-                back the water from the Ganges. It is believed that Haridwar has been sanctified by 
-                the presence of three Gods: Brahma, Vishnu, and Mahesh.  </p>
+              </p><p>If you are tired of the same old life and need a refreshing break, you should definitely 
+                book your tour to Mussoorie. From <b>adventure to wildlife,</b>  from honeymoon to 
+                relax, no matter what you are looking for, you are sure to find your dream holiday 
+                here in this amazing hill station. The best part is that the hill town has something for every traveler. There are many 
+                amazing attractions which will add extra pleasurable moments to your tour.    </p>
+              <a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
+              
             </div>
           </div>
         </div>
@@ -105,50 +110,59 @@
         <div class="container">
           <div class="row flex-center mb-5">
             <div class="col-lg-8 text-center">
-              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for your Haridwar 2 Nights Short Package </h1>
+              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for your Mussoorie 3 Nights Package with Dhanaulti, Kanatal </h1>
               <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-              <p class="mx-auto">Devout believers feel that they will attain salvation and go to heaven after a dip in the 
-                sacred Ganga at Haridwar. Haridwar is also one of the four venues of the <b>Kumbh 
-                Mela</b> (occurring after a rotation of every twelve Years) and <b>Ardh Kumbh </b>(after every 
-                six years).  
+              <p class="mx-auto">We have a budget, deluxe, luxury and high-end hotel/resorts <b> packages for 
+                Mussoorie </b>. The hotels and rooms will be provided as per your budget and 
+                requirements. 
                 </p>
-                <p>According to mythology drops of Amrit (Elixir) fell into the Brahmkund of Har-Ki-
-                  Pauri, therefore a dip in the Brahmakund on this particular day is considered very 
-                  auspicious</p>
             </div>
           </div>
               <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
-                <p> Price on Request./ <br>
+                <p> 
                   Tour Itinerary./ <br>
                   Day 1 ,<br>
-                  Arrival in Haridwar./<br> 
+                  Arrive in Mussoorie ./<br> 
                   StayHotel ./
                   </p>
               </div>
-              <p class="text-center">In the evening, you can visit <b>Hari Ki Puri</b>, which literally means the Lord's Footsteps.
-                <br>One of the most revered places in the city; it is believed to have the footprint of Lord 
-                Vishnu himself.  <br>Here you can take a dip in the River Ganga. (Please note, suggested activities are 
-                not included in the package.)   
+              <p class="text-center">Arrival in Mussoorie, Check into the hotel. The evening is at leisure. Indulge in the 
+                activities of your interest.Overnight stay in <b>Mussoorie Hotel.</b>       
               </p>
               <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
                 <p> Day 2 ./ <br>
-                  Haridwar Local Sightseeing, <br>
+                  Mussoorie Sightseeing , <br>
                   StayHotel ./
                   </p>
               </div>
-              <p class="text-center">In the morning, you can pay your respects at the <b>Mansa Devi</b>  Temple. One of the 
-                most famous tourist attractions<br> in Haridwar, the temple can be reached by a cable  car.The temple is dedicated to the Goddess Mansa, the goddess that <br> fulfills wishes. The 
-                temple is also famous for the views it offers from the height that it is located at.<br>You can visit some other famous temples of Haridwar such as; <b>Daksh Temple, 
-                Chandi Devi Temple, Maya Devi Temple,</b> <br>Pawan Dham & Parad Shivling or you can 
-                visit Vaishno Devi Temple, a famous replica of the temple situated in Jammu and 
-                Kashmir.    </p>
-                <p class="text-center">Later, you can attend the evening <b>Ganga Aarti</b> at the <b>Vishnu Ghat</b>.  Return to your 
-                  hotel for a comfortable stay. </p>
+              <p class="text-center">After breakfast, embark on sightseeing both in and around Mussoorie. The place is 
+                a perfect <br> region for long walks and hiking. You can simply walk on <b>Camel’s back </b>
+                road.  <br>Visit the known destinations of Mussoorie i.e. Kempty Fall (Situated on the hill tracks 
+                about 15 km from <br> <b>Mussoorie), Gun Hill, Lal Tibba (the second highest point here 
+                offering mesmerizing views), Mussoorie Lake, Buddha Temple,</b>  etc that are worth 
+                visiting.  </p>
+                <p class="text-center">In the evening, enjoy the facilities at the hotel. Stay overnight in Mussoorie hotel. 
+                  . </p>
                   <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
                     <p> Day 3 ./ <br>
+                      Mussoorie - Dhanaulti or Kanatal ./<br>
+                      StayHotel/Camps 
                       </p>
                   </div>
-                  <p class="text-center">Check out of your <b>Haridwar</b> hotel in the morning. </p>
+                  <p class="text-center">Drive to <b> Dhanaulti or Kanatal </b> after breakfast. Check into the Camps or hotel as per <br>
+                    booking and availability. You can enjoy various adventure and rope activities in 
+                    Dhanaulti and Kanatal.  <br>Visit Eco parks or Dhanaulty or trek to <b> Surkanda Devi Temple </b> for beautiful views. If 
+                    time permits you can visit <b> Tehri Dam and Tehri Lake for various water sports</b> 
+                    activities. <br>Drive back to your hotel or Camps. Nights stay either in Dhanaulti or 
+                    Kanatal. 
+                    </p>
+                    <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                      <p> Day 4 ./ <br>
+                        Departure  ./<br> 
+                        </p>
+                    </div>
+                    <p class="text-center">Check out of your hotel in the morning after breakfast. 
+                      . </p>
         
         </div>
         <!-- end of .container-->
@@ -451,14 +465,7 @@
     <!-- ===============================================-->
     <!--    JavaScripts-->
     <!-- ===============================================-->
-    <script src="vendors/@popperjs/popper.min.js"></script>
-    <script src="vendors/bootstrap/bootstrap.min.js"></script>
-    <script src="vendors/is/is.min.js"></script>
-    <script src="vendors/plyr/plyr.polyfilled.min.js"></script>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
-    <script src="assets/js/theme.js"></script>
-
-    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700;800;900&amp;display=swap" rel="stylesheet">
-  </body>
+    <?php include('inc/footer.php') ?>
+</body>
 
 </html>

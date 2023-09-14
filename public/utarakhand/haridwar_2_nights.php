@@ -18,18 +18,18 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).</title>
+    <title>Devesh Tour Travels: Haridwar 2 Nights Short Package &amp; We provide bus and taxi services for Haridwar 2 Nights Short Package.</title>
     <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:url" content="https://deveshtourtravels.com/"/>
     <meta property="og:site_name" content="DeveshTours&Travel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri )."/>
+    <meta property="og:title" content="Devesh Tour Travels: Haridwar 2 Nights Short Package &amp; We provide bus and taxi services forHaridwar 2 Nights Short Package."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/hari.png"/>
 
 
 
@@ -77,10 +77,10 @@
                 Gangadhar. Hindu pilgrims and devotees gather at Haridwar to offer prayers on 
                 auspicious occasions.  
                 
-              </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
-              <p>The water of River Ganga is considered so sacred at Haridwar that pilgrims carry 
+              </p><p>The water of River Ganga is considered so sacred at Haridwar that pilgrims carry 
                 back the water from the Ganges. It is believed that Haridwar has been sanctified by 
-                the presence of three Gods: Brahma, Vishnu, and Mahesh.  </p>
+                the presence of three Gods: Brahma, Vishnu, and Mahesh.  </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
+              
             </div>
           </div>
         </div>
@@ -451,14 +451,6 @@
     <!-- ===============================================-->
     <!--    JavaScripts-->
     <!-- ===============================================-->
-    <script src="vendors/@popperjs/popper.min.js"></script>
-    <script src="vendors/bootstrap/bootstrap.min.js"></script>
-    <script src="vendors/is/is.min.js"></script>
-    <script src="vendors/plyr/plyr.polyfilled.min.js"></script>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
-    <script src="assets/js/theme.js"></script>
-
-    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700;800;900&amp;display=swap" rel="stylesheet">
-  </body>
-
+    <?php include('inc/footer.php') ?>
+</body>
 </html>

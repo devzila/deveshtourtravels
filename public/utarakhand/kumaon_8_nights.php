@@ -18,18 +18,18 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).</title>
+    <title>Devesh Tour Travels: Kumaon  - Tour Package  Duration 9 Days/8 Nights  &amp; We provide bus and taxi services for Kumaon  - Tour Package  Duration 9 Days/8 Nights .</title>
     <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:url" content="https://deveshtourtravels.com/"/>
     <meta property="og:site_name" content="DeveshTours&Travel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri )."/>
+    <meta property="og:title" content="Devesh Tour Travels: Kumaon  - Tour Package  Duration 9 Days/8 Nights  &amp; We provide bus and taxi services for Kumaon  - Tour Package  Duration 9 Days/8 Nights ."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/kumaon.png"/>
 
 
 
@@ -63,24 +63,20 @@
       <?php include 'inc/nav.php' ;?>
 
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/hari.png);background-position:right bottom;background-size:contain;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/kumaon.png);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
         <div class="container position-relative">
           <div class="row align-items-center min-vh-75 my-lg-8">
             <div  class="col-md-4 text-center text-md-start py-3">
-              <h2 class="mb-4 display">	Haridwar 2 Nights Short Package :-</h2>
+              <h2 class="mb-4 display">	Kumaon  - Tour Package  Duration 9 Days/8 Nights :-</h2>
               <p>
-                Haridwar is one of the most popular Hindu pilgrimage places. River Ganges enters 
-                the North Indian plains at Haridwar. Haridwar or 'Gateway to Gods' is also known by the names of Mayapuri, Kapila, and 
-                Gangadhar. Hindu pilgrims and devotees gather at Haridwar to offer prayers on 
-                auspicious occasions.  
-                
+                A delight for nature lovers, the Kumaon region of Uttarakhand is a mesmerizing beauty 
+                surrounded by the majestic Himalayas, adorned with mesmerizing lakes and teeming with 
+                rich flora and fauna. Travel to the beautiful hills of Kumaon and explore the best parts of 
+                Kumaon with Kumaon Tour. 
               </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
-              <p>The water of River Ganga is considered so sacred at Haridwar that pilgrims carry 
-                back the water from the Ganges. It is believed that Haridwar has been sanctified by 
-                the presence of three Gods: Brahma, Vishnu, and Mahesh.  </p>
             </div>
           </div>
         </div>
@@ -105,50 +101,191 @@
         <div class="container">
           <div class="row flex-center mb-5">
             <div class="col-lg-8 text-center">
-              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for your Haridwar 2 Nights Short Package </h1>
+              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5"> Book a Taxi now for Kumaon  - Tour Package  Duration 9 Days/8 Nights  </h1>
               <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-              <p class="mx-auto">Devout believers feel that they will attain salvation and go to heaven after a dip in the 
-                sacred Ganga at Haridwar. Haridwar is also one of the four venues of the <b>Kumbh 
-                Mela</b> (occurring after a rotation of every twelve Years) and <b>Ardh Kumbh </b>(after every 
-                six years).  
+              <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                <p> 
+                  Day 1 ,<br>
+                  
+                  </p>
+              </div>
+
+              <p class="mx-auto">Nainital city is well connected to all major cities of India by road, air and rail. The nearest 
+                railway station is Kathgodam Railway Station which is located at a distance of 34 km from 
+                Nainital and the travel time is around 1 hour. 
                 </p>
-                <p>According to mythology drops of Amrit (Elixir) fell into the Brahmkund of Har-Ki-
-                  Pauri, therefore a dip in the Brahmakund on this particular day is considered very 
-                  auspicious</p>
+                <p>Pantnagar Airport is the nearest airport which is at a distance of 68 km from Nainital and the 
+                  travel time is 2 hours. 
+                  The nearest bus stand is Haldwani bus stand which is located 40 km from Nainital and takes 
+                  around 1 hour to reach. We will pick you up from your place and then drive you to Kumaon. 
+                  You can spend the evening relaxing and enjoying the beautiful climate of Nainital or enjoying 
+                  some of the local attractions. </p>
+                  <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                    <p> 
+                      Day 2 ,<br>
+                      Nainital-Binsar <br>
+                      Drive87 km Time: 3 hours
+                      
+                      </p>
+                  </div>
+                  <p class="mx-auto">Possible Activities: Boating, Shopping, Local sightseeing 
+                    Places to visit: Nainital Lake, Nainital Zoo, Eco Cave Garden, Naina Peak, Mukteshwar 
+                    Temple, Tiffin Top, Nainital Ropeway 
+                    Today you will spend the whole day sightseeing in Nainital. You will start your day with a 
+                    healthy breakfast and travel towards the breathtaking Nainital Lake. Surrounded by the 
+                    Kumaon Himalayas and surrounded by mesmerizing lakes, Nainital is the jewel of Kumaon. 
+                    You will visit Nainital Zoo, Eco Cave Garden, Naina Peak, Mukteshwar Temple. 
+                    After visiting Nainital, you will move towards Binsar. 
+                    Binsar is a quaint hill station located 87 km from Nainital. Binsar Wildlife Sanctuary 
+                    surrounds the town of Binsar and hence the place is full of greenery and rich flora and fauna. 
+                    You will have your dinner and overnight stay at Binsar 
+                     . 
+                    </p>
             </div>
           </div>
               <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
-                <p> Price on Request./ <br>
-                  Tour Itinerary./ <br>
-                  Day 1 ,<br>
-                  Arrival in Haridwar./<br> 
-                  StayHotel ./
+                <p> 
+                  Day 3 ,<br>
+                  Binsar- Chaukori 
+                  Drive106 km Time: 4 PM 
+                  
                   </p>
               </div>
-              <p class="text-center">In the evening, you can visit <b>Hari Ki Puri</b>, which literally means the Lord's Footsteps.
-                <br>One of the most revered places in the city; it is believed to have the footprint of Lord 
-                Vishnu himself.  <br>Here you can take a dip in the River Ganga. (Please note, suggested activities are 
-                not included in the package.)   
+              <p class="text-center">Possible Activities: Nature walks, hiking, local sightseeing<br> 
+                Places to visit: Zero Point, Binsar Mahadev Temple, Mary Budden Estate, Binsar Sanctuary 
+                Museum, Binsar Wildlife Sanctuary, Khali Estate <br>
+                Situated at an altitude of 2,420 metres, Binsar offers unparalleled views of the Himalayan<br> 
+                peaks Chaukhamba, Nanda Devi, Nanda Kot, Panchachuli, Shivling, Trishul and Kedarnath. <br>
+                You will see various rare animals and innumerable flowers. Binsar is an ideal place for 
+                nature lovers who want to spend some quiet time in nature. <br>
+                The most famous spot in Binsar is the Zero Point from where you can enjoy the mesmerizing<br> 
+                panoramic views of the Himalayan peaks. Other places to visit in Binsar include Binsar <br>
+                Mahadev Temple dedicated to Lord Shiva, Mary Budden Estate, Binsar Sanctuary Museum, 
+                Binsar Wildlife Sanctuary and Khali Estate.<br> 
+                You can also go for hiking to nearby places and enjoy the untouched beauty of Binsar.<br> 
+                After a serene day at Binsar, you will head towards Chaukori which is located at a distance <br>
+                of 106 km from Binsar. The 4 hour drive to Chaukori is full of beautiful landscapes and <br>
+                soothing cool breezes. You will have your dinner at Chaukori and overnight stay there.   
               </p>
               <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
-                <p> Day 2 ./ <br>
-                  Haridwar Local Sightseeing, <br>
-                  StayHotel ./
+                <p> Day 4 ./ <br>
+                  Chaukori-Munsiyari  <br>
+                  Drive97 km Time: 3.5 hours 
                   </p>
               </div>
-              <p class="text-center">In the morning, you can pay your respects at the <b>Mansa Devi</b>  Temple. One of the 
-                most famous tourist attractions<br> in Haridwar, the temple can be reached by a cable  car.The temple is dedicated to the Goddess Mansa, the goddess that <br> fulfills wishes. The 
-                temple is also famous for the views it offers from the height that it is located at.<br>You can visit some other famous temples of Haridwar such as; <b>Daksh Temple, 
-                Chandi Devi Temple, Maya Devi Temple,</b> <br>Pawan Dham & Parad Shivling or you can 
-                visit Vaishno Devi Temple, a famous replica of the temple situated in Jammu and 
-                Kashmir.    </p>
-                <p class="text-center">Later, you can attend the evening <b>Ganga Aarti</b> at the <b>Vishnu Ghat</b>.  Return to your 
-                  hotel for a comfortable stay. </p>
+              <p class="text-center">Possible Activities: Local sightseeing, nature walks, hiking <br>
+                Places to visit: Chaukori, Kapileshwar Mahadev Temple, Mahakali Temple of Gangolihat, <br>
+                Nag Temple of Berinag, Ghunsera Devi Temple, Arjuneshwar Temple, Chineshwar Waterfall, 
+                Dharamghar <br>
+                Surrounded by Himalayas with Nanda Devi, Nanda Kot and Panchachuli peaks shining <br>
+                majestically, Chaukori is a serene village away from the hustle and bustle of city life. The city<br> 
+                is known for its peaceful environment, tea gardens and temples. <br>
+                You will start your day exploring the lush tea gardens of Chaukori, Kapileshwar Mahadev <br>
+                Temple, Mahakali Temple of Gangolihat, Nag Temple of Berinag, Ghunsera Devi Temple, 
+                Arjuneshwar Temple, Chineshwar Waterfall, and other attractions. <br>
+                After exploring Chaukori, you will travel towards Munsiyari, located at a distance of 97 km <br>
+                from Chaukori. After a drive of 3.5 hours, you will reach Munsiyari. You will have your dinner <br>
+                and overnight stay at Munsiyari.    </p>
+                
                   <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
-                    <p> Day 3 ./ <br>
+                    <p> Day 5 ./ <br>
+                      Munsyari  Kausani 
+                      Drive165 km Total: 6 hrs 
                       </p>
                   </div>
-                  <p class="text-center">Check out of your <b>Haridwar</b> hotel in the morning. </p>
+                  <p class="text-center">Activities Possible: Village walks, hiking, shopping, adventure sports, sightseeing<br> 
+                    Places To Visit: Birthi Falls, Balanta Potato Farm,  Darkot Village, Betulidhar, Maheshwari <br>
+                    Kund, Khaliya Top, Nanda Devi Temple, Tribal Heritage Museum <br>
+                    Literally meaning Place of Snow, Munsyari is a  scenic hill station located at an elevation of <br>
+                    2,200 m. Surrounded by the mesmerizing Himalayan peaks and covered with dense forests <br>
+                    with various species of flora and fauna, Munsyari is an unexplored beauty that beautifully 
+                    welcomes nature lovers.<br> 
+                    Munsyari serves as the base for many treks, nature and adventure enthusiasts visit the<br> 
+                    place with great zeal. Popular places to visit here are Birthi Falls, Balanta Potato Farm, <br>
+                    Darkot Village, Betulidhar, Maheshwari Kund, Khaliya Top, Nanda Devi Temple, and Tribal 
+                    Heritage Museum. <br>
+                     
+                    The picturesque location of Munsyari makes the place ideal for village walks and hiking. You<br> 
+                    can shop beautiful hand-woven carpets, tree saplings, and other local products at the local<br> 
+                    markets of Muinsyari. You can engage in bird watching and adventure sports too.<br> 
+                    You ll carry on your journey towards Kausani which is 165 km from Munsyari. It will take <br>
+                    around 6 hrs to reach Kausani. Your overnight stay will be at Kausani  </p>
+                  <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                    <p> Day 6 ./ <br>
+                      Kausani–Ranikhet 
+                      Drive59 km Time: 2 hrs 
+                      </p>
+                  </div>
+                  <p class="text-center">Activities Possible: Local sightseeing, shopping <br>
+                    Places To Visit: Anasakti Ashram, Rudradhari Waterfalls, Kausani Tea Estate, 
+                    Sumitranandan Pant Government Museum<br> 
+                     
+                    The view of sunrise is something no one should miss at  Kausani. Offering panoramic views 
+                    of the mighty Trishul, Nanda Devi,<br> and  Panchachuli peaks, Kausani lies undisturbed in the 
+                    lap of Himalayas. Mahatma Gandhi once called Kausani the “Switzerland of India” and when <br>
+                    you reach here,  you can t help but agree. Such is the charm of Kausani where nature will 
+                    make you fall in love. <br><br>
+                     
+                     
+                    At Kausani, you will explore the beautiful attractions like Anasakti Ashram, Rudradhari <br>
+                    Waterfalls, Kausani Tea Estate, Sumitranandan Pant Government Museum, among others. <br> 
+                    You can buy Kausani shawls made by the villagers at Kausani Shawl Factory and shop 
+                    handicrafts, pickles, and teas from the local market. <br>
+                    After Kausani, you ll move onward to Ranikhet which is located at a distance of 59 km from <br>
+                    Kausani. It ll take around 2 hrs to reach  Ranikhet. You ll stay overnight at Ranikhet.  </p>
+                  <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                    <p> Day 7 ./ <br>
+                      Ranikhet Corbett 
+                      Drive87 km Time: 3 hrs 
+                      </p>
+                  </div>
+                  <p class="text-center">Activities Possible: Golfing, fishing, hiking, paragliding <br>
+                    Places To Visit: Ranikhet Golf Course, Ashiyana Park,  Mankameshwar Temple, Chaubatia <br>
+                    Gardens, Jhula Devi Temple, Haidakhan Babaji Temple, Kumaon Regimental Centre <br>
+                    Museum, Tarikhet Village, Rani Jheel, Sadar Bazar, Kalika, and Bhalu Dam <br>
+                     
+                    Ranikhet literally means ‘Queen’s Meadow’ and we could not say anything lesser of this <br>
+                    place. Perched at an elevation of 1,869 m, Ranikhet boasts a fascinating landscape with <br>
+                    lush green forests echoing in the lively melodies of faunas and soothing aromas of floras.<br> 
+                    Though away from the hustle and bustle of city life,  Ranikhet is full of life. The peaceful hill<br> 
+                    station of Ranikhet is a perfect place for golfing, with one of the best hill golf courses in the 
+                    country. Apart from golfing, fishing, hiking, and paragliding are popular in Ranikhet. You can 
+                    also shop for local products at Ranikhet markets. <br>
+                    Ranikhet Golf Course is one of the most famous spots of Ranikhet. Other interesting places <br>
+                    include Ashiyana Park, Mankameshwar Temple, Chaubatia Gardens, Jhula Devi Temple, <br>
+                    Haidakhan Babaji Temple, Kumaon  Regimental Centre Museum, Tarikhet Village, Rani <br>
+                    Jheel, Sadar Bazar, Kalika,  and Bhalu Dam. <br>
+                     
+                    You’ll travel onward to Jim Corbett National Park and stay overnight there. Corbett National <br>
+                    Park is 87 km from Ranikhet and it will take around 3 hrs to reach there.  </p>
+                  <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                    <p> Day 8 ./ <br>
+                      Jim Corbett National Park 
+                      </p>
+                  </div>
+                  <p class="text-center">Activities: Safari Rides, Recreational Activities, Local Sightseeing <br>
+ 
+                    Places To Visit: Jim Corbett National Park, Garjia Devi Temple, Dhangarhi Museum, Corbett 
+                    Falls <br>
+                    Today you will spend your day visiting Jim Corbett National Park. One of the oldest and most <br>
+                    famous national parks in India, Jim Corbett National Park is situated on the banks of the <br>
+                    Ramganga Reservoir and is known for its rich flora and fauna. <br>
+                    You will start your day with a healthy breakfast and then take a ride on the famous safari. <br>
+                    The safari ride will take you through the picturesque landscapes of Jim Corbett National Park <br>
+                    where you will spot various species of plants and rare animals. <br>
+                    After the ride, you will visit the surrounding areas of Corbett National Park like Garjia Devi 
+                    Museum, Dhangarhi Museum and Corbett Falls. <br>
+                    There will also be recreational activities at camps, hotels and resorts. After an eventful day,<br> 
+                    you will have a hearty dinner and stay overnight.  </p>
+                    <div class="col-12 col-xxl-7 fw-bold fs-2 text-info text-center">
+                      <p> Day 9 ./ <br>
+                        Jim Corbett National Park 
+                        </p>
+                    </div>
+                    <p class="text-center">After breakfast, departure from hotel, drive back to Delhi. On arrival in Delhi, we will transfer 
+                      you to Delhi Airport/Railway Station.<br> 
+                      Our services will end there and you can go back to your places with some of the best 
+                      moments and memories of your life. </p>
         
         </div>
         <!-- end of .container-->
@@ -451,14 +588,7 @@
     <!-- ===============================================-->
     <!--    JavaScripts-->
     <!-- ===============================================-->
-    <script src="vendors/@popperjs/popper.min.js"></script>
-    <script src="vendors/bootstrap/bootstrap.min.js"></script>
-    <script src="vendors/is/is.min.js"></script>
-    <script src="vendors/plyr/plyr.polyfilled.min.js"></script>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
-    <script src="assets/js/theme.js"></script>
-
-    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700;800;900&amp;display=swap" rel="stylesheet">
-  </body>
+    <?php include('inc/footer.php') ?>
+</body>
 
 </html>
