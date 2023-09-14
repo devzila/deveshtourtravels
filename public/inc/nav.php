@@ -10,74 +10,31 @@
               <li class="nav-item"><a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? 'active' : ' text-600' ;?>" aria-current="page" href="index.php">24x7</a></li>
               <li class="nav-item"><a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'taj_mahal.php' ? 'active' : ' text-600' ;?>"  href="taj_mahal.php">Taj Mahal Trip</a></li>
               <li class="nav-item"><a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'char_dham.php' ? 'active' : ' text-600' ;?>" href="char_dham.php">Char Dham Yatra</a></li>
+
               <li class="nav-item dropdown">
-                <a class="nav-link text-600 dropdown-toggle" data-bs-toggle="dropdown" href="services.php" role="button" aria-expanded="false">Services</a>
-                <ul class="dropdown-menu">
-                  <a class="dropdown-item" href="#">
-                    Provide taxi services for the following. &raquo;
-                  </a>
-                  <ul class="dropdown-menu dropdown-submenu"> 
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="local_taxi.php">Local and Outstation</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="conference_tour.php">Conference</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="wedding_tour.php">Wedding</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="ad_film_shooting.php"> Film & Ad Shooting</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="outstation_rates.php">Local and Outstation charges</a></li>
+                  <a class="nav-link dropdown-toggle" href="services.php" id="services" data-flip="false"
+                      data-toggle="dropdown" aria-expanded="false">Services</a>
+                  <ul class="dropdown-menu" aria-labelledby="services">
+                    <li class="dropdown">
+                      <a class="dropdown-item dropdown-toggle" href="#">Taxi Services</a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="himachal_tour.php">Himachal Tour</a></li>
+                        <li><a class="dropdown-item" href="local_taxi.php">Local Taxi</a></li>
+                      </ul>
+                    </li>
+
+                    <li class="dropdown">
+                      <a class="dropdown-item dropdown-toggle" href="#">North India Tour</a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="mathura.php">Mathura Tour</a></li>
+                        <li><a class="dropdown-item" href="rajasthan_tour.php">Rajasthan Tour</a></li>
+                      </ul>
+                    </li>
+
                   </ul>
-                  <a class="dropdown-item" href="#">
-                    North India Tourist Place  &raquo;
-                  </a>
-                  <ul class="dropdown-menu dropdown-submenu">
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand_tour.php">  Uttrakhand (Hill station)</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="himachal_tour.php"> Himachal Pradesh (Hill station)</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="jammu_tour.php">Jammu & Kashmir (Hill station)</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="ladakh_tour.php">  Ladakh ( Hill station)</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="amritsar.php">   Amritsar Golden Temple & wagah border</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="rajasthan_tour.php"> Rajasthan</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="uttarpradesh_tour.php"> Uttar Pradesh</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="madhaya_pradesh.php">  Madhya Pradesh</a></li>
-                 </ul>
-                  <a class="dropdown-item" href="#">
-                    Noth India Pilgrimage Place  &raquo;
-                  </a>
-                  <ul class="dropdown-menu dropdown-submenu">
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="rishikesh.php"> Rishikesh</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="haridwar.php"> Haridwar</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="bhuvneshwar.php">  Patal Bhuvneshwar</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="kailash.php">Aadi Kailash Om parvat</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="mathura.php">  Mathura</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="khatusyam.php"> Khatu Shyam</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="balaji.php">Mehandipur Balaji</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="salasar.php"> Salasar Balaji</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="allahabad.php">   Allahabad </a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="varanasi.php">  Varanasi/Ayodhya</a></li>
-                  </ul>
-                  <a class="dropdown-item" href="#">
-                    North East Hill station  &raquo;
-                  </a>
-                  <ul class="dropdown-menu dropdown-submenu" >
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="varanasi.php"> goa</a></li>
-                 </ul>
-                  <a class="dropdown-item" href="#">
-                    Tour packages &raquo;
-                  </a>
-                  <ul class="dropdown-menu dropdown-submenu" >
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/haridwar_2_nights.php"> haridwar 2 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/rishikesh_3_nights.php"> rishikesh 3 nights  Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/mussoorie_3_nights.php"> mussoorie 3 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/chamba_3_nights.php"> chamba 3 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/gumkhal_2_nights.php"> gumkhal 2 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/khirsu_2_nights.php"> khirsu 2 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/khirsu_4_nights.php"> khirsu 4 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/khirsu_auli_4_nights.php"> khirsu auli 4 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/nainital_2_nights.php"> nainital 2 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/bhimtal_nainital_4_nights.php"> bhimtal nainital 4 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/nainital_mukteshwar_5_nights.php"> nainital mukteshwar 5 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/jim_corbett_1_nights.php"> jim corbett 1 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/nainital_almora_7_nights.php"> nainital almora 7 nights Packages</a></li>
-                  <li><a class="dropdown-item" class="nav-link active" aria-current="page" href="utarakhand/kumaon_8_nights.php"> kumaon 8 nights Packages</a></li>
-                 </ul>
-                </ul>
               </li>
+
+
               <li class="nav-item"><a class="nav-link  <?php echo basename($_SERVER['PHP_SELF']) == 'contact_us.php' ? 'active' : ' text-600' ;?>" href="contact_us.php">Contact Us </a></li>
             </ul>
             <form class="ps-lg-5">
