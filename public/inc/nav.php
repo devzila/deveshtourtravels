@@ -57,20 +57,20 @@
                     <li class="dropdown">
                       <a class="dropdown-item dropdown-toggle" href="#">Tour packages</a>
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item"  href="utarakhand/rishikesh_3_nights.php">  Uttrakhand Rishikesh(Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/chamba_3_nights.php">  Uttrakhand Chambha (Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/bhimtal_nainital_4_nights.php">  Uttrakhand Bhimtal Nainital (Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/gumkhal_2_nights.php">  Uttrakhand Gumkhal (Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/haridwar_2_nights.php">  Uttrakhand Haridwar(Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/jim_corbett_1_nights.php">  Uttrakhand Jim corbett(Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/khirsu_2_nights.php">  Uttrakhand Khirsu (Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/khirsu_4_nights.php">  Uttrakhand  Khirsu  4 nights(Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/khirsu_auli_4_nights.php">  Uttrakhand Khirsu auli(Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/kumaon_8_nights.php">  Uttrakhand  Kumaon (Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/mussoorie_3_nights.php">  Uttrakhand Mussoorie (Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/nainital_2_nights.php">  Uttrakhand Nainital 2 nights (Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/nainital_almora_7_nights.php">  Uttrakhand Nainital ALmora (Hill station)</a></li>
-                        <li><a class="dropdown-item"  href="utarakhand/nainital_mukteshwar_5_nights.php">  Uttrakhand Nainital Mukteshwar (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="rishikesh_3_nights.php">  Uttrakhand Rishikesh(Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="chamba_3_nights.php">  Uttrakhand Chambha (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="bhimtal_nainital_4_nights.php">  Uttrakhand Bhimtal Nainital (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="gumkhal_2_nights.php">  Uttrakhand Gumkhal (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="haridwar_2_nights.php">  Uttrakhand Haridwar(Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="jim_corbett_1_nights.php">  Uttrakhand Jim corbett(Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="khirsu_2_nights.php">  Uttrakhand Khirsu (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="khirsu_4_nights.php">  Uttrakhand  Khirsu  4 nights(Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="khirsu_auli_4_nights.php">  Uttrakhand Khirsu auli(Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="kumaon_8_nights.php">  Uttrakhand  Kumaon (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="mussoorie_3_nights.php">  Uttrakhand Mussoorie (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="nainital_2_nights.php">  Uttrakhand Nainital 2 nights (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="nainital_almora_7_nights.php">  Uttrakhand Nainital ALmora (Hill station)</a></li>
+                        <li><a class="dropdown-item"  href="nainital_mukteshwar_5_nights.php">  Uttrakhand Nainital Mukteshwar (Hill station)</a></li>
                         
                         
                       </ul>
