@@ -27,9 +27,9 @@
 
     <meta property="og:title" content="Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri )."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
-    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/hill.jpg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/ked.jpeg"/>
+    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/hill.jpg"/>
 
 
     <!-- ===============================================-->
@@ -62,7 +62,7 @@
       <?php include 'inc/nav.php' ;?>
 
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/hill.png);background-position:right bottom;background-size:contain;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/hill.jpg);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
@@ -156,7 +156,7 @@
                         </div>
                       </div>
                       <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.png" alt="" />
+                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.jpg" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
                             <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
@@ -170,7 +170,7 @@
                   <div class="carousel-item">
                     <div class="row h-100">
                       <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.png" alt="" />
+                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/kathmandu.jpg" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
                             <div class="pt-3"></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
