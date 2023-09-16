@@ -27,9 +27,9 @@
 
     <meta property="og:title" content="Devesh Tour Travels: Taxi Service in Delhi for Local and Outstation &amp; Devesh Tour & Travels provides the easiest way to book taxi service in Delhi."/>
     <meta property="og:description" content="Are you looking for Taxi/Cab service in Delhi?  Don't worry, your search for cabs in Delhi ends right here.Devesh Tour & Travels provides the easiest way to book taxi service in Delhi. Now get the best deals on cab fares in Delhi, starting from Rs 13/km."/>
-    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/images3.jpeg"/>
+    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/images3.jpg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/images3.jpeg"/>
+    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/images3.jpg"/>
 
     <!-- ===============================================-->
     <!--    Favicons-->
@@ -60,7 +60,7 @@
     <main class="main" id="top">
       <?php include 'inc/nav.php' ;?>
       <section class="py-0">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/images3.jpeg);background-position:right bottom;background-size:contain;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(assets/img/gallery/images3.jpg);background-position:right bottom;background-size:contain;">
         </div>
         <!--/.bg-holder-->
 
@@ -337,35 +337,35 @@
                     <div class="carousel-item active" data-bs-interval="10000">
                       <div class="row h-100">
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/image1.jpeg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/image1.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Taxi to Outstation</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images2.jpeg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images2.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Outstation Taxi Service in Delhi</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images3.jpeg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images3.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">All Day Taxi Hire Service in Delhi</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images4.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images4.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">One Way/Round Trip Taxi Service in Delhi</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images6.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images6.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Local Taxi Service in Delhi</h5>
                             </div>
@@ -383,35 +383,35 @@
                     <div class="carousel-item" data-bs-interval="2000">
                       <div class="row h-100">
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/food.jpeg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/food.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Food</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/backpacking.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/backpacking.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Backpacking</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/beaches.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/beaches.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Beaches,coast and island</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/art-culture.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/art-culture.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Art and culture</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/wild.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/wild.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Wildlife and nature</h5>
                             </div>
@@ -429,35 +429,35 @@
                     <div class="carousel-item">
                       <div class="row h-100 offset-lg-2">
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/food.jpeg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/food.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Food</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/backpacking.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/backpacking.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Backpacking</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/beaches.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/beaches.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Beaches,coast and island</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/art-culture.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/art-culture.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Art and culture</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/wild.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/wild.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Wildlife and nature</h5>
                             </div>
@@ -589,7 +589,7 @@
 
 
       <section id="booking">
-        <div class="bg-holder" style="background-image:url(assets/img//gallery/booking.png);background-position:center;background-size:cover;">
+        <div class="bg-holder" style="background-image:url(assets/img//gallery/booking.jpg);background-position:center;background-size:cover;">
         </div>
         <!--/.bg-holder-->
 

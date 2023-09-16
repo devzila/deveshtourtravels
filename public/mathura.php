@@ -128,7 +128,7 @@
                         </div>
                       </div>
                       <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/dham7.jpeg" alt="" />
+                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/dham7.jpg" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
                             <div class="pt-3"><span class="badge bg-primary">Rs1340</span></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
@@ -143,7 +143,7 @@
                   <div class="carousel-item">
                     <div class="row h-100">
                       <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/maldives.png" alt="" />
+                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/maldives.jpg" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
                             <div class="pt-3"><span class="badge bg-primary">Rs340</span></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
@@ -154,7 +154,7 @@
                         </div>
                       </div>
                       <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.png" alt="" />
+                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.jpg" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
                             <div class="pt-3"><span class="badge bg-primary">Rs540</span></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
@@ -202,7 +202,7 @@
                         </div>
                       </div>
                       <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.png" alt="" />
+                        <div class="card h-100 text-white hover-top"><img class="img-fluid h-100" src="assets/img/gallery/indonesia.jpg" alt="" />
                           <div class="card-img-overlay ps-0 d-flex flex-column justify-content-between bg-dark-gradient">
                             <div class="pt-3"><span class="badge bg-primary">$860</span></div>
                             <div class="ps-3 d-flex justify-content-between align-items-center">
@@ -522,7 +522,7 @@
 
 
       <section id="booking">
-        <div class="bg-holder" style="background-image:url(assets/img//gallery/booking.png);background-position:center;background-size:cover;">
+        <div class="bg-holder" style="background-image:url(assets/img//gallery/booking.jpg);background-position:center;background-size:cover;">
         </div>
         <!--/.bg-holder-->
 

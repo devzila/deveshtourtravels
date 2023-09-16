@@ -396,7 +396,7 @@
 
 
       <section id="booking">
-        <div class="bg-holder" style="background-image:url(assets/img//gallery/booking.png);background-position:center;background-size:cover;">
+        <div class="bg-holder" style="background-image:url(assets/img//gallery/booking.jpg);background-position:center;background-size:cover;">
         </div>
         <!--/.bg-holder-->
 
