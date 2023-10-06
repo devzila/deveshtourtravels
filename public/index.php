@@ -112,7 +112,7 @@
             <div class="col-lg-8 text-center">
               <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5">Travel categories</h1>
               <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
-              <p class="mx-auto">Maecenas et eros non quam ultricies interdum. Proin ac dolor vel neque ullamcorper blandit vitae et felis. Morbi ante urna, imperdiet vel neque vitae, porta ullamcorper metus. Quisque bibendum venenatis eros sed commodo. Nullam ultrices tortor non diam ullamcorper auctor. In urna tellus, auctor sit amet est ut, scelerisque volutpat diam.</p>
+              <p class="mx-auto"> Bounded by the majestic Himalayan ranges in the north and edged by a spectacular coastline surrounded by three seas, India is a vivid kaleidoscope of landscapes, magnificent historical sites and royal cities, golden beaches, misty mountain retreats, colourful people, rich cultures and festivities. At any part of the year India can offer you a dazzling array of destinations and experiences. In summer, when the subcontinent is sizzling, there are spectacular retreats amidst the heady beauty of the Himalayas or the lush green heights of the Western Ghats with cool trekking trails, tall peaks to conquer stretches of white water for the adventure seekers.</p>
             </div>
           </div>
           <div class="row h-100 flex-center">
@@ -123,42 +123,42 @@
                     <div class="carousel-item active" data-bs-interval="10000">
                       <div class="row h-100">
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/image1.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="local_taxi.php"><img class="img-fluid" src="assets/img/gallery/image1.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Taxi to Outstation</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images2.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="outstation_rates.php"><img class="img-fluid" src="assets/img/gallery/images2.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Outstation Taxi Service in Delhi</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images3.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="conference_tour.php"><img class="img-fluid" src="assets/img/gallery/images3.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">All Day Taxi Hire Service in Delhi</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images4.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="local_taxi.php"><img class="img-fluid" src="assets/img/gallery/images4.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">One Way/Round Trip Taxi Service in Delhi</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/images6.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="local_taxi.php"><img class="img-fluid" src="assets/img/gallery/images6.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Local Taxi Service in Delhi</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/hill.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="himachal_tour.php"><img class="img-fluid" src="assets/img/gallery/hill.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Hill and nature</h5>
                             </div>
@@ -169,42 +169,42 @@
                     <div class="carousel-item" data-bs-interval="2000">
                       <div class="row h-100">
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/food.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="haridwar.php"><img class="img-fluid" src="assets/img/gallery/food.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Food</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/backpacking.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="himachal_tour.php"><img class="img-fluid" src="assets/img/gallery/backpacking.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Backpacking</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/beaches.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="kailash.php"><img class="img-fluid" src="assets/img/gallery/beaches.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Beaches,coast and island</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/art-culture.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="khirsu_2_nights.php"><img class="img-fluid" src="assets/img/gallery/art-culture.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Art and culture</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/wild.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="kumaon_8_nights.php"><img class="img-fluid" src="assets/img/gallery/wild.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Wildlife and nature</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/hill.jpg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="khirsu_auli_4_nights.php"><img class="img-fluid" src="assets/img/gallery/hill.jpg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Hill and nature</h5>
                             </div>
@@ -215,35 +215,35 @@
                     <div class="carousel-item">
                       <div class="row h-100 offset-lg-2">
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/food.jpeg" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="local_taxi.php"><img class="img-fluid" src="assets/img/gallery/food.jpeg" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Food</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/backpacking.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="ladakh_tour.php"><img class="img-fluid" src="assets/img/gallery/backpacking.png" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Backpacking</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/beaches.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="himachal_tour.php"><img class="img-fluid" src="assets/img/gallery/beaches.png" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Beaches,coast and island</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/art-culture.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="haridwar_2_nights.php"><img class="img-fluid" src="assets/img/gallery/art-culture.png" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Art and culture</h5>
                             </div>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-xl-2 mb-3 hover-top px-2">
-                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="!#"><img class="img-fluid" src="assets/img/gallery/wild.png" alt="" /></a>
+                          <div class="card h-100 w-100 text-white"><a class="stretched-link" href="haridwar_2_nights.php"><img class="img-fluid" src="assets/img/gallery/wild.png" alt="" /></a>
                             <div class="card-img-overlay d-flex align-items-end bg-dark-gradient">
                               <h5 class="text-white fs--1">Wildlife and nature</h5>
                             </div>
@@ -276,7 +276,8 @@
         <div class="container">
           <div class="row flex-center mb-5">
             <div class="col-lg-8 text-center">
-              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5">Traveller's Experiences</h1>
+              <h1 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5">What Traveller's 
+                Say About Us</h1>
               <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
             </div>
             <div class="carousel slide" id="carouselExampleDark" data-bs-ride="carousel">
@@ -286,7 +287,7 @@
                     <div class="col-12 col-lg-7 mb-3 mb-md-0">
                       <div class="card h-100">
                         <div class="card-body d-flex flex-center flex-column">
-                          <p class="text-center card-text mb-5">“Curabitur posuere ullamcorper pulvinar. Donec dignissim bibendum leo, at faucibus enim aliquam eu. Nullam quis pulvinar diam, ac elementum urna. Integer id vehicula tortor, nec pulvinar libero. Ut elit elit, fringilla a nisi ut, dapibus eleifend quam.” </p>
+                          <p class="text-center card-text mb-5">“My family finished Char Dham Yatra successfully last week. Everything went very well and I would like to pass on special THANKS to DeveshTourTravels who was exceptionally humble in whole tour. Thank to all of you.” </p>
                           <div class="d-flex justify-content-between align-items-center">
                             <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/gallery/user-2.png" alt="" /></div>
                           </div>
@@ -304,9 +305,12 @@
                     <div class="col-12 col-lg-7 mb-3 mb-md-0">
                       <div class="card h-100">
                         <div class="card-body d-flex flex-center flex-column">
-                          <p class="text-center card-text mb-5">“Curabitur posuere ullamcorper pulvinar. Donec dignissim bibendum leo, at faucibus enim aliquam eu. Nullam quis pulvinar diam, ac elementum urna. Integer id vehicula tortor, nec pulvinar libero. Ut elit elit, fringilla a nisi ut, dapibus eleifend quam.” </p>
+                          <p class="text-center card-text mb-5">“We have just got back from our long holiday around India.
+                            Just wanted to say how much we enjoyed our trip' how we felt so looked after and how well DeveshToursTravels took us around.
+                            Many thanks.
+                             </p>
                           <div class="d-flex justify-content-between align-items-center">
-                            <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/gallery/user-1.png" alt="" /></div>
+                            <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/gallery/user3.jpg" alt="" /></div>
                           </div>
                           <div class="mt-3 text-center">
                             <h6 class="text-1000 fw-bold">Viezh Robert</h6>
@@ -322,12 +326,13 @@
                     <div class="col-12 col-lg-7 mb-3 mb-md-0">
                       <div class="card h-100">
                         <div class="card-body d-flex flex-center flex-column">
-                          <p class="text-center card-text mb-5">“Curabitur posuere ullamcorper pulvinar. Donec dignissim bibendum leo, at faucibus enim aliquam eu. Nullam quis pulvinar diam, ac elementum urna. Integer id vehicula tortor, nec pulvinar libero. Ut elit elit, fringilla a nisi ut, dapibus eleifend quam.” </p>
+                          <p class="text-center card-text mb-5">“I would like to thank you for your service, our journey through India has been an amazing experience
+                            Hope to come back soon, have a nice day” </p>
                           <div class="d-flex justify-content-between align-items-center">
-                            <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/gallery/user-2.png" alt="" /></div>
+                            <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/gallery/user-1.png" alt="" /></div>
                           </div>
                           <div class="mt-3 text-center">
-                            <h6 class="text-1000 fw-bold">Donquixote Law</h6>
+                            <h6 class="text-1000 fw-bold">Irene & Les</h6>
                             <p class="fs--1 fw-normal mb-0">Traveller</p>
                           </div>
                         </div>
@@ -340,12 +345,13 @@
                     <div class="col-12 col-lg-7 mb-3 mb-md-0">
                       <div class="card h-100">
                         <div class="card-body d-flex flex-center flex-column">
-                          <p class="text-center card-text mb-5">“Curabitur posuere ullamcorper pulvinar. Donec dignissim bibendum leo, at faucibus enim aliquam eu. Nullam quis pulvinar diam, ac elementum urna. Integer id vehicula tortor, nec pulvinar libero. Ut elit elit, fringilla a nisi ut, dapibus eleifend quam.” </p>
+                          <p class="text-center card-text mb-5">“Thank you for a wonderful trip. You were excellent in communication and sorting out our tailor made holiday . You were very professional. All details were well taken care of. The driver  was very good and professional. The vehicle was nice. Hotels were up to our expectations mostly except the last 3 nights and I have already told you about them.
+                            But overall an excellent trip. Shall contact you for our next trip” </p>
                           <div class="d-flex justify-content-between align-items-center">
-                            <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/gallery/user-1.png" alt="" /></div>
+                            <div class="d-flex align-items-center"><img class="img-fluid" src="assets/img/gallery/user-2.png" alt="" /></div>
                           </div>
                           <div class="mt-3 text-center">
-                            <h6 class="text-1000 fw-bold">Viezh Robert</h6>
+                            <h6 class="text-1000 fw-bold">Rehana ISSA,</h6>
                             <p class="fs--1 fw-normal mb-0">Traveller</p>
                           </div>
                         </div>
@@ -391,18 +397,35 @@
                   <label class="visually-hidden" for="inlineFormSelectPref">Destinations</label>
                   <select class="form-select" id="inlineFormSelectPref">
                     <option selected="">Destinations</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
+                    <option value="3">Rajasthan</option>
+                    <option value="3">Uttar Pradesh</option>
+                    <option value="3">Madhya Pradesh</option>
+                    <option value="3">Khatu Shyam</option>
+                    <option value="3">Salasar Balaji</option>
+                    <option value="3">Mathura</option>
+                    <option value="1">Uttrakhand (Hill station)</option>
+                    <option value="2">Himachal Pradesh (Hill station)</option>
+                    <option value="3">Jammu & Kashmir (Hill station)</option>
+                    <option value="3">Ladakh ( Hill station)</option>
+                    <option value="3">Amritsar Golden Temple & wagah border</option>
+                    <option value="3">Uttrakhand Nainital Mukteshwar (Hill station)</option>
+                    <option value="3">Uttrakhand Rishikesh(Hill station)</option>
+                    <option value="3">Uttrakhand Chambha (Hill station)</option>
+                    <option value="3">Uttrakhand Bhimtal Nainital (Hill station)</option>
+                    <option value="3"> Uttrakhand Haridwar(Hill station)</option>
                   </select>
                 </div>
                 <div class="col-6 col-md-3">
                   <label class="visually-hidden" for="autoSizingSelect">Package</label>
                   <select class="form-select" id="autoSizingSelect">
                     <option selected="">Package</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
+                    <option value="3">One day package</option>
+                    <option value="1">One-night package </option>
+                    <option value="2">Two-night package</option>
+                    <option value="3">Three-night package</option>
+                    <option value="3">Four-night package</option>
+                    <option value="3">Five-night package</option>
+                    <option value="3">Six-night package</option>
                   </select>
                 </div>
                 <div class="col-6 col-md-3">

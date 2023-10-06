@@ -162,19 +162,36 @@
                 <div class="col-6 col-md-3">
                   <label class="visually-hidden" for="inlineFormSelectPref">Destinations</label>
                   <select class="form-select" id="inlineFormSelectPref">
-                    <option selected="">Destinations</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
+                  <option selected="">Destinations</option>
+                    <option value="3">Rajasthan</option>
+                    <option value="3">Uttar Pradesh</option>
+                    <option value="3">Madhya Pradesh</option>
+                    <option value="3">Khatu Shyam</option>
+                    <option value="3">Salasar Balaji</option>
+                    <option value="3">Mathura</option>
+                    <option value="1">Uttrakhand (Hill station)</option>
+                    <option value="2">Himachal Pradesh (Hill station)</option>
+                    <option value="3">Jammu & Kashmir (Hill station)</option>
+                    <option value="3">Ladakh ( Hill station)</option>
+                    <option value="3">Amritsar Golden Temple & wagah border</option>
+                    <option value="3">Uttrakhand Nainital Mukteshwar (Hill station)</option>
+                    <option value="3">Uttrakhand Rishikesh(Hill station)</option>
+                    <option value="3">Uttrakhand Chambha (Hill station)</option>
+                    <option value="3">Uttrakhand Bhimtal Nainital (Hill station)</option>
+                    <option value="3"> Uttrakhand Haridwar(Hill station)</option>
                   </select>
                 </div>
                 <div class="col-6 col-md-3">
                   <label class="visually-hidden" for="autoSizingSelect">Package</label>
                   <select class="form-select" id="autoSizingSelect">
-                    <option selected="">Package</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
+                  <option selected="">Package</option>
+                    <option value="3">One day package</option>
+                    <option value="1">One-night package </option>
+                    <option value="2">Two-night package</option>
+                    <option value="3">Three-night package</option>
+                    <option value="3">Four-night package</option>
+                    <option value="3">Five-night package</option>
+                    <option value="3">Six-night package</option>
                   </select>
                 </div>
                 <div class="col-6 col-md-3">
