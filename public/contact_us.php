@@ -4,14 +4,14 @@
   <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="en"/>
-    <meta property="al:ios:app_name" content="DeveshTours&Travel"/>
+    <meta property="al:ios:app_name" content="DeveshTravel"/>
     <meta property="al:ios:app_store_id" content="284876795"/>
     <meta property="twitter:app:id:ipad" name="twitter:app:id:ipad" content="284876795"/>
     <meta property="twitter:app:id:iphone" name="twitter:app:id:iphone" content="284876795"/>
-    <meta property="al:ios:url" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
-    <meta property="twitter:app:url:ipad" name="twitter:app:url:ipad" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
-    <meta property="twitter:app:url:iphone" name="twitter:app:url:iphone" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
-    <meta name="apple-itunes-app" content="app-id=284876795, app-argument=https://deveshtourtravels.com/"/>
+    <meta property="al:ios:url" content="deveshtravels://deveshtravels.com/?m=33762"/>
+    <meta property="twitter:app:url:ipad" name="twitter:app:url:ipad" content="deveshtravels://deveshtravels.com/?m=33762"/>
+    <meta property="twitter:app:url:iphone" name="twitter:app:url:iphone" content="deveshtravels://deveshtravels.com/?m=33762"/>
+    <meta name="apple-itunes-app" content="app-id=284876795, app-argument=https://deveshtravels.com/"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
 
 
@@ -20,16 +20,16 @@
     <!-- ===============================================-->
     <title>Devesh Tour Travels: CONTACT US &amp; (DEVESH TOUR & TRAVELS, PAN INDIA SERVICE PROVIDER).</title>
     <meta name="description" content="India Pilgrimage Place (Tab) Haridwar, Rishikesh, Mathura, Khatu Shyam, Mehandipur Balaji,Salasar Balaji"/>
-    <meta property="og:url" content="https://deveshtourtravels.com/"/>
-    <meta property="og:site_name" content="DeveshTours&Travel"/>
+    <meta property="og:url" content="https://deveshtravels.com/"/>
+    <meta property="og:site_name" content="DeveshTravel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
     <meta property="og:title" content="Devesh Tour Travels: CONTACT US &amp; (DEVESH TOUR & TRAVELS, PAN INDIA SERVICE PROVIDER)."/>
     <meta property="og:description" content="India Pilgrimage Place (Tab) Haridwar, Rishikesh, Mathura, Khatu Shyam, Mehandipur Balaji,Salasar Balaji"/>
-    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/illustrations/hero.png"/>
+    <meta property="og:image" content="https://deveshtravels.com/assets/img/illustrations/hero.png"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/illustrations/hero.png"/>
+    <meta property="twitter:image" content="https://deveshtravels.com/assets/img/illustrations/hero.png"/>
 
     <!-- ===============================================-->
     <!--    Favicons-->
@@ -75,7 +75,7 @@
                 <p class="text-info">DEVESH TOUR & TRAVELS</p>
                 <p>(PAN INDIA SERVICE PROVIDER)</p>
                 <p>Address: DTT, East Kidwai Nagar New Delhi 110023 (INDIA)</p>
-                <p class="text-info">Email Id: <a  href="#" class="link-primary">deveshtourtravels@gmail.com</a><br>24x7</p>
+                <p class="text-info">Email Id: <a  href="#" class="link-primary">deveshtravels@gmail.com</a><br>24x7</p>
                 <a class="btn  btn-primary hover-top marigin-top" href="form.html" role="button">Book now</a>
             </div>
           </div>

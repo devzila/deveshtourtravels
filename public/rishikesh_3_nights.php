@@ -4,14 +4,14 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="en"/>
-    <meta property="al:ios:app_name" content="DeveshTours&Travel"/>
+    <meta property="al:ios:app_name" content="DeveshTravel"/>
     <meta property="al:ios:app_store_id" content="284876795"/>
     <meta property="twitter:app:id:ipad" name="twitter:app:id:ipad" content="284876795"/>
     <meta property="twitter:app:id:iphone" name="twitter:app:id:iphone" content="284876795"/>
-    <meta property="al:ios:url" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
-    <meta property="twitter:app:url:ipad" name="twitter:app:url:ipad" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
-    <meta property="twitter:app:url:iphone" name="twitter:app:url:iphone" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
-    <meta name="apple-itunes-app" content="app-id=284876795, app-argument=https://deveshtourtravels.com/"/>
+    <meta property="al:ios:url" content="deveshtravels://deveshtravels.com/?m=33762"/>
+    <meta property="twitter:app:url:ipad" name="twitter:app:url:ipad" content="deveshtravels://deveshtravels.com/?m=33762"/>
+    <meta property="twitter:app:url:iphone" name="twitter:app:url:iphone" content="deveshtravels://deveshtravels.com/?m=33762"/>
+    <meta name="apple-itunes-app" content="app-id=284876795, app-argument=https://deveshtravels.com/"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
 
 
@@ -20,16 +20,16 @@
     <!-- ===============================================-->
     <title>Devesh Tour Travels: Haridwar - Rishikesh 3 Nights Tour Package  &amp; We provide bus and taxi services for  Haridwar - Rishikesh 3 Nights Tour Package .</title>
     <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
-    <meta property="og:url" content="https://deveshtourtravels.com/"/>
-    <meta property="og:site_name" content="DeveshTours&Travel"/>
+    <meta property="og:url" content="https://deveshtravels.com/"/>
+    <meta property="og:site_name" content="DeveshTravel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
     <meta property="og:title" content="Devesh Tour Travels:  Haridwar - Rishikesh 3 Nights Tour Package  &amp; We provide bus and taxi services for  Haridwar - Rishikesh 3 Nights Tour Package ."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
-    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/rishikesh.jpg"/>
+    <meta property="og:image" content="https://deveshtravels.com/assets/img/gallery/rishikesh.jpg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/rishikesh.jpg"/>
+    <meta property="twitter:image" content="https://deveshtravels.com/assets/img/gallery/rishikesh.jpg"/>
 
 
 

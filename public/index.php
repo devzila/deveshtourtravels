@@ -4,14 +4,14 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="en"/>
-    <meta property="al:ios:app_name" content="DeveshTours&Travel"/>
+    <meta property="al:ios:app_name" content="DeveshTravel"/>
     <meta property="al:ios:app_store_id" content="284876795"/>
     <meta property="twitter:app:id:ipad" name="twitter:app:id:ipad" content="284876795"/>
     <meta property="twitter:app:id:iphone" name="twitter:app:id:iphone" content="284876795"/>
-    <meta property="al:ios:url" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
-    <meta property="twitter:app:url:ipad" name="twitter:app:url:ipad" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
-    <meta property="twitter:app:url:iphone" name="twitter:app:url:iphone" content="deveshtourtravels://deveshtourtravels.com/?m=33762"/>
-    <meta name="apple-itunes-app" content="app-id=284876795, app-argument=https://deveshtourtravels.com/"/>
+    <meta property="al:ios:url" content="deveshtravels://deveshtravels.com/?m=33762"/>
+    <meta property="twitter:app:url:ipad" name="twitter:app:url:ipad" content="deveshtravels://deveshtravels.com/?m=33762"/>
+    <meta property="twitter:app:url:iphone" name="twitter:app:url:iphone" content="deveshtravels://deveshtravels.com/?m=33762"/>
+    <meta name="apple-itunes-app" content="app-id=284876795, app-argument=https://deveshtravels.com/"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
 
 
@@ -20,16 +20,16 @@
     <!-- ===============================================-->
     <title>Devesh Tour Travels: Taxi Service in Delhi for Local and Outstation &amp; Devesh Tour & Travels provides the easiest way to book taxi service in Delhi.</title>
     <meta name="description" content="  Are you looking for Taxi/Cab service in Delhi?  Don't worry, your search for cabs in Delhi ends right here.Devesh Tour & Travels provides the easiest way to book taxi service in Delhi. Now get the best deals on cab fares in Delhi, starting from Rs 13/km."/>
-    <meta property="og:url" content="https://deveshtourtravels.com/"/>
-    <meta property="og:site_name" content="DeveshTours&Travel"/>
+    <meta property="og:url" content="https://deveshtravels.com/"/>
+    <meta property="og:site_name" content="DeveshTravel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
     <meta property="og:title" content="Devesh Tour Travels: Taxi Service in Delhi for Local and Outstation &amp; Devesh Tour & Travels provides the easiest way to book taxi service in Delhi."/>
     <meta property="og:description" content="Are you looking for Taxi/Cab service in Delhi?  Don't worry, your search for cabs in Delhi ends right here.Devesh Tour & Travels provides the easiest way to book taxi service in Delhi. Now get the best deals on cab fares in Delhi, starting from Rs 13/km."/>
-    <meta property="og:image" content="https://deveshtourtravels.com/assets/img/gallery/del3.jpg"/>
+    <meta property="og:image" content="https://deveshtravels.com/assets/img/gallery/del3.jpg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
-    <meta property="twitter:image" content="https://deveshtourtravels.com/assets/img/gallery/del3.jpg"/>
+    <meta property="twitter:image" content="https://deveshtravels.com/assets/img/gallery/del3.jpg"/>
     <!-- ===============================================-->
     <!--    Favicons-->
     <!-- ===============================================-->
@@ -306,7 +306,7 @@
                       <div class="card h-100">
                         <div class="card-body d-flex flex-center flex-column">
                           <p class="text-center card-text mb-5">“We have just got back from our long holiday around India.
-                            Just wanted to say how much we enjoyed our trip' how we felt so looked after and how well DeveshToursTravels took us around.
+                            Just wanted to say how much we enjoyed our trip' how we felt so looked after and how well DeveshTravels took us around.
                             Many thanks.
                              </p>
                           <div class="d-flex justify-content-between align-items-center">
