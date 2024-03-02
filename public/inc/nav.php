@@ -2,7 +2,7 @@
         <div class="container">
           <a class="navbar-brand d-flex align-items-center fw-bold fs-2" href="/"> 
             <img class="d-inline-block align-top img-fluid" src="assets/img/gallery/logo-icon.png" alt="" width="50" />
-            <span class="text-primary fs-4 ps-2">DeveshTourTravels</span>
+            <span class="text-primary fs-4 ps-2">DeveshTravels</span>
           </a>
           <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
