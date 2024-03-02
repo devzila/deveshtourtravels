@@ -18,15 +18,15 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: Taxi Service in Delhi for Local and Outstation &amp; Devesh Tour & Travels provides the easiest way to book taxi service in Delhi.</title>
-    <meta name="description" content="  Are you looking for Taxi/Cab service in Delhi?  Don't worry, your search for cabs in Delhi ends right here.Devesh Tour & Travels provides the easiest way to book taxi service in Delhi. Now get the best deals on cab fares in Delhi, starting from Rs 13/km."/>
+    <title>Devesh Travels: Taxi Service in Delhi for Local and Outstation &amp; Devesh & Travels provides the easiest way to book taxi service in Delhi.</title>
+    <meta name="description" content="  Are you looking for Taxi/Cab service in Delhi?  Don't worry, your search for cabs in Delhi ends right here.Devesh & Travels provides the easiest way to book taxi service in Delhi. Now get the best deals on cab fares in Delhi, starting from Rs 13/km."/>
     <meta property="og:url" content="https://deveshtravels.com/"/>
     <meta property="og:site_name" content="DeveshTravel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: Taxi Service in Delhi for Local and Outstation &amp; Devesh Tour & Travels provides the easiest way to book taxi service in Delhi."/>
-    <meta property="og:description" content="Are you looking for Taxi/Cab service in Delhi?  Don't worry, your search for cabs in Delhi ends right here.Devesh Tour & Travels provides the easiest way to book taxi service in Delhi. Now get the best deals on cab fares in Delhi, starting from Rs 13/km."/>
+    <meta property="og:title" content="Devesh Travels: Taxi Service in Delhi for Local and Outstation &amp; Devesh & Travels provides the easiest way to book taxi service in Delhi."/>
+    <meta property="og:description" content="Are you looking for Taxi/Cab service in Delhi?  Don't worry, your search for cabs in Delhi ends right here.Devesh & Travels provides the easiest way to book taxi service in Delhi. Now get the best deals on cab fares in Delhi, starting from Rs 13/km."/>
     <meta property="og:image" content="https://deveshtravels.com/assets/img/gallery/images3.jpg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
     <meta property="twitter:image" content="https://deveshtravels.com/assets/img/gallery/images3.jpg"/>
@@ -68,11 +68,11 @@
           <div class="row align-items-center min-vh-75 my-lg-8">
             <div class="col-md-4 text-center text-md-start py-3">
               <h2 class="mb-4 display">LOCAL AND OUTSTATION Travel</h2>
-              <p class="text-info">Cheap Taxi Rates in Delhi with Devesh Tour and Travels</p>
+              <p class="text-info">Cheap Taxi Rates in Delhi with Devesh and Travels</p>
            
               <p>Our fleet of well-maintained vehicles and seasoned drivers are available to serve you, whether you require a comfortable ride within your city or are organizing an outstation trip. Our commitment is to provide safe, convenient, and punctual transportation.
               </p>
-              <p>Devesh Tour & Travels is a Delhi based reliable and efficient cab service for outstation and local use, that offers a range of vehicles to suit the requirements of its clients. Here, you can find the current taxi fare in Delhi NCR from Devesh Tour & Travels, we will also try to compare with the fares of other taxi companies in the city</p>
+              <p>Devesh & Travels is a Delhi based reliable and efficient cab service for outstation and local use, that offers a range of vehicles to suit the requirements of its clients. Here, you can find the current taxi fare in Delhi NCR from Devesh & Travels, we will also try to compare with the fares of other taxi companies in the city</p>
             
           </div>
         </div>
@@ -291,12 +291,12 @@
                     <p class="text-info">Parking extra as per actual  slip ./-</p>
                   </div>
                   <div>
-                    <p class="text-dark">Devesh Tour and Travels offers competitive rates for its taxi services in Delhi. The base fare for a taxi ride is ₹25, with a charge of ₹13 per kilometre and ₹1 per minute of travel. There may be additional charges for certain services, such as airport pick-ups or drop-offs, which carry a surcharge of ₹150. Tolls and other fees may also apply. Devesh Tour and Travels occasionally offers promotions and discounts for its customers, so be sure to check our website or Call us  for the latest deals.</p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91-7021159617</a>
+                    <p class="text-dark">Devesh and Travels offers competitive rates for its taxi services in Delhi. The base fare for a taxi ride is ₹25, with a charge of ₹13 per kilometre and ₹1 per minute of travel. There may be additional charges for certain services, such as airport pick-ups or drop-offs, which carry a surcharge of ₹150. Tolls and other fees may also apply. Devesh and Travels occasionally offers promotions and discounts for its customers, so be sure to check our website or Call us  for the latest deals.</p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91-7021159617</a>
                   </div>
                   <div class="py-5 text-md-start">
                     <h3>Comparison with other taxi companies:-</h3>
-                    <p>Our Outstation Cab Fare as well as local taxi rates are competitive with other taxi companies in Delhi. When compared to other providers, Devesh Tour and Travels offers excellent value for money with its reasonable base fares and per kilometre charges.</p>
-                    <p>In conclusion, Devesh Tour and Travels offers affordable and reliable taxi services in Delhi, with competitive rates that are on par with other companies in the Delhi & NCR. Whether you need a ride to the airport, a trip across town, or want to hire a Cab for Outstation with Driver, Devesh Tour and Travels has you covered. For more information or to book a taxi, visit Devesh Tour and Travels or Contact us </p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91-7021159617</a>
+                    <p>Our Outstation Cab Fare as well as local taxi rates are competitive with other taxi companies in Delhi. When compared to other providers, Devesh and Travels offers excellent value for money with its reasonable base fares and per kilometre charges.</p>
+                    <p>In conclusion, Devesh and Travels offers affordable and reliable taxi services in Delhi, with competitive rates that are on par with other companies in the Delhi & NCR. Whether you need a ride to the airport, a trip across town, or want to hire a Cab for Outstation with Driver, Devesh and Travels has you covered. For more information or to book a taxi, visit Devesh and Travels or Contact us </p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91-7021159617</a>
                   </div>
                 </div>
               </div>

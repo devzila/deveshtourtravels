@@ -18,14 +18,14 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: Mussoorie 3 Nights Package with Dhanaulti, Kanatal  &amp; We provide bus and taxi services for Mussoorie 3 Nights Package with Dhanaulti, Kanatal </title>
+    <title>Devesh Travels: Mussoorie 3 Nights Package with Dhanaulti, Kanatal  &amp; We provide bus and taxi services for Mussoorie 3 Nights Package with Dhanaulti, Kanatal </title>
     <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:url" content="https://deveshtravels.com/"/>
     <meta property="og:site_name" content="DeveshTravel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: Mussoorie 3 Nights Package with Dhanaulti, Kanatal &amp; We provide bus and taxi services for Mussoorie 3 Nights Package with Dhanaulti, Kanatal ."/>
+    <meta property="og:title" content="Devesh Travels: Mussoorie 3 Nights Package with Dhanaulti, Kanatal &amp; We provide bus and taxi services for Mussoorie 3 Nights Package with Dhanaulti, Kanatal ."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:image" content="https://deveshtravels.com/assets/img/gallery/mussoorie.jpg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>

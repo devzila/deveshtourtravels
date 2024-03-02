@@ -18,14 +18,14 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: ●	Film & Advertising Production Support &amp; We provide bus and taxi services for ●	Film & Advertising Production Support.</title>
+    <title>Devesh Travels:We provide bus and taxi services for ●	Film & Advertising Production Support.</title>
     <meta name="description" content=" ●	Film & Advertising Production Support: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:url" content="https://deveshtravels.com/"/>
     <meta property="og:site_name" content="DeveshTravel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: ●	Film & Advertising Production Support Bus & Taxi PACKAGES &amp; We provide bus and taxi services for ●	Film & Advertising Production Support."/>
+    <meta property="og:title" content="Devesh Travels: ●	Film & Advertising Production Support Bus & Taxi PACKAGES &amp; We provide bus and taxi services for ●	Film & Advertising Production Support."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:image" content="https://deveshtravels.com/assets/img/gallery/bus.jpg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
@@ -88,7 +88,7 @@
   <div class="row flex-md-center">
     <div class="col-md-11 col-lg-4 py-md-3 px-4 px-md-3 px-lg-0 px-xl-2 order-lg-1">
       <h1 class="fw-bold fs-md-3 fs-x-5">Book your Taxi Now for Amazing Services:- </h1>
-      <p>At Devesh Tour and Travel our dedication to making your travel dreams come true is unwavering. With our extensive experience and unwavering commitment to excellence, we assure you a memorable journey filled with comfort, convenience, and adventure. Explore the world with us and let us be your trusted travel companion on every remarkable voyage.</p>
+      <p>At Devesh and Travel our dedication to making your travel dreams come true is unwavering. With our extensive experience and unwavering commitment to excellence, we assure you a memorable journey filled with comfort, convenience, and adventure. Explore the world with us and let us be your trusted travel companion on every remarkable voyage.</p>
       <hr class="text-primary my-4 my-lg-3 my-xl-4" style="height:3px; width:70px;" />
       <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
     </div>

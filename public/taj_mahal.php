@@ -18,14 +18,14 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: Travel Delhi to Taj Mahal Agra &amp; We provide bus and taxi services for Delhi Agra Same Day Tour (Taj Mahal Tour).</title>
+    <title>Devesh Travels: Travel Delhi to Taj Mahal Agra &amp; We provide bus and taxi services for Delhi Agra Same Day Tour (Taj Mahal Tour).</title>
     <meta name="description" content=" Delhi Agra Same Day Tour (Taj Mahal Tour) Taj Mahal one day tour All Inclusive - No Hidden Fees,  Easy online booking, and fair pricing Verified Fleet & Trained Drivers timely Pickup - Anywhere in Delhi"/>
     <meta property="og:url" content="https://deveshtravels.com/"/>
     <meta property="og:site_name" content="DeveshTravel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: Travel Delhi to Taj Mahal Agra  &amp;  We provide bus and taxi services for Delhi Agra Same Day Tour (Taj Mahal Tour)."/>
+    <meta property="og:title" content="Devesh Travels: Travel Delhi to Taj Mahal Agra  &amp;  We provide bus and taxi services for Delhi Agra Same Day Tour (Taj Mahal Tour)."/>
     <meta property="og:description" content="Delhi Agra Same Day Tour (Taj Mahal Tour) Taj Mahal one day tour All Inclusive - No Hidden Fees,  Easy online booking, and fair pricing Verified Fleet & Trained Drivers timely Pickup - Anywhere in Delhi"/>
     <meta property="og:image" content="https://deveshtravels.com/assets/img/gallery/taj3.jpg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>

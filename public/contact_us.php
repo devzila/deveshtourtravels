@@ -18,14 +18,14 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: CONTACT US &amp; (DEVESH TOUR & TRAVELS, PAN INDIA SERVICE PROVIDER).</title>
+    <title>Devesh Travels: CONTACT US &amp; (Devesh & TRAVELS, PAN INDIA SERVICE PROVIDER).</title>
     <meta name="description" content="India Pilgrimage Place (Tab) Haridwar, Rishikesh, Mathura, Khatu Shyam, Mehandipur Balaji,Salasar Balaji"/>
     <meta property="og:url" content="https://deveshtravels.com/"/>
     <meta property="og:site_name" content="DeveshTravel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: CONTACT US &amp; (DEVESH TOUR & TRAVELS, PAN INDIA SERVICE PROVIDER)."/>
+    <meta property="og:title" content="Devesh Travels: CONTACT US &amp; (Devesh & TRAVELS, PAN INDIA SERVICE PROVIDER)."/>
     <meta property="og:description" content="India Pilgrimage Place (Tab) Haridwar, Rishikesh, Mathura, Khatu Shyam, Mehandipur Balaji,Salasar Balaji"/>
     <meta property="og:image" content="https://deveshtravels.com/assets/img/illustrations/hero.png"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
@@ -72,7 +72,7 @@
                 Get In Touch                
               </p>
               <div class="col-md-7 col-lg-6 text-center text-md-start text-dark">
-                <p class="text-info">DEVESH TOUR & TRAVELS</p>
+                <p class="text-info">Devesh & TRAVELS</p>
                 <p>(PAN INDIA SERVICE PROVIDER)</p>
                 <p>Address: DTT, East Kidwai Nagar New Delhi 110023 (INDIA)</p>
                 <p class="text-info">Email Id: <a  href="#" class="link-primary">deveshtravels@gmail.com</a><br>24x7</p>
@@ -102,7 +102,7 @@
           <div class="container">
             <div class="row flex-center mb-5">
               <div class="col-lg-8 text-center">
-                <h2 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5 py-0"> (DEVESH TOUR & TRAVELS, PAN INDIA SERVICE PROVIDER)
+                <h2 class="fw-bold fs-md-3 fs-lg-4 fs-xl-5 py-0"> (Devesh & TRAVELS, PAN INDIA SERVICE PROVIDER)
                   </h2>
                 <hr class="mx-auto text-primary my-4" style="height:3px; width:70px;" />
                 <p class="mx-auto text-info">Kindly leave your message by filling the below form and we will get back to you very soon.</p>

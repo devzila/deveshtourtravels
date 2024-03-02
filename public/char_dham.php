@@ -18,14 +18,14 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).</title>
+    <title>Devesh Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).</title>
     <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:url" content="https://deveshtravels.com/"/>
     <meta property="og:site_name" content="DeveshTravel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri )."/>
+    <meta property="og:title" content="Devesh Travels: CHAR DHAM YATRA Bus & Taxi PACKAGES &amp; We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri )."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:image" content="https://deveshtravels.com/assets/img/gallery/ked1.jpg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
@@ -279,11 +279,11 @@
                 </p>
               </div>
               <div class="col-12 col-xxl-7 text-center text-info">
-                <p>Book Bus, Taxi, Tempo Traveller, Car for Char Dham Yatra from Devesh Tour And Travels, </p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 7021159617</a>
+                <p>Book Bus, Taxi, Tempo Traveller, Car for Char Dham Yatra from Devesh And Travels, </p><a class="btn btn-lg btn-primary hover-top" href="#" role="button">+91 7021159617</a>
               </div>
               <div class="col-12 col-xxl-7  text-center text-info">
                 <p>You can book Bus, Tempo Traveller & Taxi from any city in India at cheap & best rates through<br>
-                  Devesh Tour & Travels.
+                  Devesh & Travels.
                 </p>
               </div>
               <div class="col-12 col-xxl-7  text-center text-dark">
@@ -293,7 +293,7 @@
                 </p>
                 <p>We provide bus and taxi services for Char Dham Yatra (Badrinath, Kedarnath, Gangotri, Yamunotri ).<br>
                    Book Char Dham Tour by Bus & Taxi from Delhi, India at affordable price<br>
-                    through Devesh Tour & Travels.</p>
+                    through Devesh & Travels.</p>
               </div>
             </div>
           </div>

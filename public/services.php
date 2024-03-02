@@ -10,7 +10,7 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels</title>
+    <title>Devesh Travels</title>
 
 
     <!-- ===============================================-->
@@ -51,7 +51,7 @@
             <div  class="col-md-4 text-center text-md-start py-3">
               <h2 class="mb-4 display">Transportation Services & Taxi PACKAGES</h2>
               <p>
-               Welcome to Devesh Tour and Travel, where our extensive experience in the travel industry allows us to offer a wide range of services tailored to meet your diverse travel needs. Whether you're exploring local destinations or planning an adventure to the scenic hill stations of North India, we are here to enhance your travel experience and ensure it's both memorable and trouble-free.
+               Welcome to Devesh and Travel, where our extensive experience in the travel industry allows us to offer a wide range of services tailored to meet your diverse travel needs. Whether you're exploring local destinations or planning an adventure to the scenic hill stations of North India, we are here to enhance your travel experience and ensure it's both memorable and trouble-free.
               </p><a class="btn  btn-primary hover-top" href="#" role="button">+91 7021159617</a> <a class="btn  btn-primary hover-top marigin-left" href="form.html" role="button">Book now</a>
             </div>
           </div>

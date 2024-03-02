@@ -18,14 +18,14 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Devesh Tour Travels: Kumaon  - Tour Package  Duration 9 Days/8 Nights  &amp; We provide bus and taxi services for Kumaon  - Tour Package  Duration 9 Days/8 Nights .</title>
+    <title>Devesh Travels: Kumaon  - Tour Package  Duration 9 Days/8 Nights  &amp; We provide bus and taxi services for Kumaon  - Tour Package  Duration 9 Days/8 Nights .</title>
     <meta name="description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:url" content="https://deveshtravels.com/"/>
     <meta property="og:site_name" content="DeveshTravel"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en-IN"/>
 
-    <meta property="og:title" content="Devesh Tour Travels: Kumaon  - Tour Package  Duration 9 Days/8 Nights  &amp; We provide bus and taxi services for Kumaon  - Tour Package  Duration 9 Days/8 Nights ."/>
+    <meta property="og:title" content="Devesh Travels: Kumaon  - Tour Package  Duration 9 Days/8 Nights  &amp; We provide bus and taxi services for Kumaon  - Tour Package  Duration 9 Days/8 Nights ."/>
     <meta property="og:description" content=" Delhi to Char Dham Bus & Taxi Services: We are one of the trusted names in Bus/Taxi/Car  Booking Services based in Delhi,India. We provide all types of buses and taxis from hatchback to Innova,  Dzire, Ertiga, sedan for char Dham travel"/>
     <meta property="og:image" content="https://deveshtravels.com/assets/img/gallery/kumaon.jpg"/>
     <meta property="og:image:width" content="550"/><meta property="og:image:height" content="370"/>
